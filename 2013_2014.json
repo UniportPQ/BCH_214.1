@@ -1,0 +1,702 @@
+
+[
+  {
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "General Biochemistry 3",
+    "code": "BCH 214.1",
+    "session": "2013/2014",
+    "topics": [
+      "Phospholipids",
+      "Cell Membrane",
+      "Biochemistry",
+      "Triglycerides",
+      "Lipids",
+      "Essential Fatty Acids",
+      "Omega-6",
+      "Arachidonic Acid",
+      "Fatty Acids",
+      "Eicosanoids",
+      "Transfer RNA",
+      "RNA",
+      "Protein Synthesis",
+      "Messenger RNA",
+      "Gene Expression",
+      "Ribosomal RNA",
+      "Ribosome",
+      "DNA",
+      "Nucleic Acids",
+      "Genetics",
+      "Bioenergetics",
+      "High-energy compounds",
+      "High-energy bonds",
+      "Phosphoanhydride bond",
+      "Enolphosphate bond",
+      "Acylphosphate bond",
+      "Thioester bond",
+      "Cell wall",
+      "Plant cells",
+      "Botany",
+      "Prokaryotes",
+      "Carboxysome",
+      "Bacterial organelles",
+      "Thylakoid",
+      "Photosynthesis",
+      "Chlorosome",
+      "Microbiology",
+      "Nutritional types",
+      "Autotrophs",
+      "Cell biology",
+      "Mitochondria",
+      "Eukaryotic organelles",
+      "Endoplasmic Reticulum",
+      "Peroxisomes",
+      "Nucleus",
+      "Eukaryotes",
+      "Membrane Transport",
+      "Uniport",
+      "Cell Biology",
+      "Symport",
+      "Antiport",
+      "Facilitated Diffusion",
+      "Active Transport",
+      "Passive Transport",
+      "Diagram"
+    ],
+    "time": "120"
+  },
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Phospholipids",
+      "Cell Membrane",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Explain the functions of phospholipids and how their structure relates to their function.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phospholipids form the core of all cell membranes. Their amphipathic structure (hydrophilic head, hydrophobic tails) allows spontaneous bilayer formation, creating a selective barrier. Functions: structural component, precursors for signaling molecules, emulsifiers, and cell recognition."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Phospholipids: Structure & Function</h4>\n  <p><strong>Functions:</strong></p>\n  <ul>\n    <li><strong>Membrane structure:</strong> Main building blocks of biological membranes.</li>\n    <li><strong>Signaling:</strong> Precursors for second messengers (IP₃, DAG).</li>\n    <li><strong>Emulsification:</strong> Help emulsify fats in digestion.</li>\n    <li><strong>Cell recognition:</strong> Some act as recognition sites.</li>\n  </ul>\n  <p><strong>Structure–function relationship:</strong> Phospholipids are <strong>amphipathic</strong>—hydrophilic heads face water, hydrophobic tails avoid water. This causes spontaneous bilayer formation, creating a hydrophobic core that blocks polar molecules while allowing selective permeability and membrane fluidity.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2a",
+    "topic": [
+      "Triglycerides",
+      "Lipids",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "Draw the structure of Tripalmitin.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\[ \\ce_{CH2-O-CO-(CH2)14-CH3} \\]\n\\[ \\ce{CH-O-CO-(CH2)14-CH3} \\]\n\\[ \\ce{CH2-O-CO-(CH2)14-CH3} \\]"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Tripalmitin Structure</h4>\n  <p>Tripalmitin is a triglyceride with glycerol esterified to three palmitic acids (16:0). Glycerol backbone with each hydroxyl forming an ester bond to palmitic acid. All three fatty acids are identical and saturated.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2b",
+    "topic": [
+      "Essential Fatty Acids",
+      "Lipids",
+      "Omega-6"
+    ],
+    "Question": {
+      "content": "Draw the structure of a named essential fatty acid.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Linoleic acid (18:2, ω-6): \\[ \\ce{CH3-(CH2)4-(CH=CH-CH2)2-(CH2)6-COOH} \\]"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Linoleic Acid</h4>\n  <p>Essential fatty acid humans cannot synthesize. 18-carbon chain with two cis double bonds at positions 9 and 12 (omega-6). The double bonds introduce kinks affecting membrane fluidity.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2c",
+    "topic": [
+      "Arachidonic Acid",
+      "Fatty Acids",
+      "Eicosanoids"
+    ],
+    "Question": {
+      "content": "Draw the structure of Arachidonic acid.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\[ \\ce{CH3-(CH2)4-(CH=CH-CH2)4-(CH2)2-COOH} \\]"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Arachidonic Acid</h4>\n  <p>20:4, ω-6 polyunsaturated fatty acid with four cis double bonds at carbons 5,8,11,14. Precursor for eicosanoids (prostaglandins, thromboxanes, leukotrienes).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2d(i)",
+    "topic": [
+      "Transfer RNA",
+      "RNA",
+      "Protein Synthesis"
+    ],
+    "Question": {
+      "content": "Write notes on Transfer RNA.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "tRNA (70-90 nt) is an adaptor molecule in protein synthesis. It carries specific amino acids to ribosome and matches them to mRNA codons via anticodon. Has cloverleaf secondary structure and L-shaped tertiary structure with acceptor stem (CCA 3' end) and anticodon loop."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Transfer RNA</h4>\n  <p><strong>Structure:</strong> 4 arms—acceptor (amino acid attachment), anticodon (codon recognition), D arm, TΨC arm. Tertiary folding creates L-shape that fits ribosome.</p>\n  <p><strong>Function:</strong> Aminoacylated by synthetases, delivers amino acids via codon-anticodon pairing. Wobble hypothesis allows some tRNAs to recognize multiple codons.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2d(ii)",
+    "topic": [
+      "Messenger RNA",
+      "RNA",
+      "Gene Expression"
+    ],
+    "Question": {
+      "content": "Write notes on Messenger RNA.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "mRNA carries genetic information from DNA to ribosomes for protein synthesis. In eukaryotes, it has 5' cap, 3' poly-A tail, and spliced exons. Contains coding region (codons) and untranslated regions (UTRs) that regulate translation."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Messenger RNA</h4>\n  <p>Transcribed from DNA, processed in eukaryotes (capping, polyadenylation, splicing). Codons (triplets) specify amino acids. UTRs regulate stability and translation. Unstable—allows rapid adjustment of protein production.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2d(iii)",
+    "topic": [
+      "Ribosomal RNA",
+      "RNA",
+      "Ribosome"
+    ],
+    "Question": {
+      "content": "Write notes on Ribosomal RNA.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "rRNA is the catalytic and structural component of ribosomes. In prokaryotes: 23S, 16S, 5S; eukaryotes: 28S, 18S, 5.8S, 5S. rRNA catalyzes peptide bond formation (ribozyme) and provides binding sites for mRNA and tRNA."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ribosomal RNA</h4>\n  <p>Most abundant RNA (~80% of total). Forms ribosome core with proteins. 23S rRNA (prokaryotes) has peptidyl transferase activity—making rRNA a ribozyme. Conserved sequences used in phylogenetics. Target of many antibiotics.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3a(iii)",
+    "topic": [
+      "DNA",
+      "Nucleic Acids",
+      "Genetics"
+    ],
+    "Question": {
+      "content": "Explain the ten basic characteristic features of DNA molecule.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Double helix. 2. Antiparallel strands. 3. Sugar-phosphate backbone outside. 4. Bases inside. 5. Complementary pairing (A=T, G≡C). 6. Sequence encodes information. 7. Right-handed (B-DNA). 8. ~10 bp/turn. 9. Major/minor grooves. 10. Semi-conservative replication."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>10 Features of DNA</h4>\n  <ol>\n    <li>Double helix—two polynucleotide chains.</li>\n    <li>Antiparallel—5'→3' and 3'→5' directions.</li>\n    <li>Backbone: deoxyribose-phosphate (outside).</li>\n    <li>Bases project inward.</li>\n    <li>Base pairing: A-T (2 H-bonds), G-C (3 H-bonds).</li>\n    <li>Base sequence stores genetic info.</li>\n    <li>Right-handed helix (B-form).</li>\n    <li>10 base pairs per turn (3.4 nm).</li>\n    <li>Major and minor grooves for protein binding.</li>\n    <li>Semi-conservative replication—each new DNA has one old strand.</li>\n  </ol>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4a",
+    "topic": [
+      "Bioenergetics",
+      "High-energy compounds",
+      "Biochemistry"
+    ],
+    "Question": {
+      "content": "What are energy rich compounds?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Molecules containing high-energy bonds that release ≥ -25 kJ/mol upon hydrolysis. They drive endergonic reactions. Examples: ATP, GTP, phosphoenolpyruvate, creatine phosphate, acetyl-CoA."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Energy-Rich Compounds</h4>\n  <p>Store chemical energy in bonds. Hydrolysis releases free energy because products are more stable. ATP (ΔG°' = -30.5 kJ/mol) is primary currency. PEP has highest energy (-61.9 kJ/mol). Used for biosynthesis, movement, transport.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4b(i)",
+    "topic": [
+      "Bioenergetics",
+      "High-energy bonds",
+      "Phosphoanhydride bond"
+    ],
+    "Question": {
+      "content": "Describe the phosphoanhydride bond as a kind of high-energy bond.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bond between two phosphate groups (as in ATP). Hydrolysis releases ~ -30.5 kJ/mol due to relief of electrostatic repulsion, resonance stabilization of products, and increased entropy."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Phosphoanhydride Bond</h4>\n  <p>Found in ATP (α-β, β-γ phosphates). Negatively charged phosphates repel; hydrolysis relieves strain. Products (ADP, Pi) have more resonance forms and are better solvated. Drives cellular work.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4b(ii)",
+    "topic": [
+      "Bioenergetics",
+      "High-energy bonds",
+      "Enolphosphate bond"
+    ],
+    "Question": {
+      "content": "Describe the enolphosphate bond as a kind of high-energy bond.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bond between phosphate and enol group. In phosphoenolpyruvate (PEP), hydrolysis releases ~ -61.9 kJ/mol because product (pyruvate) tautomerizes to more stable keto form."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Enolphosphate Bond</h4>\n  <p>PEP donates phosphate to ADP in glycolysis (substrate-level phosphorylation). Enolpyruvate rapidly tautomerizes to keto pyruvate, releasing extra energy. Highest energy phosphate bond in biological systems.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4b(iii)",
+    "topic": [
+      "Bioenergetics",
+      "High-energy bonds",
+      "Acylphosphate bond"
+    ],
+    "Question": {
+      "content": "Describe the acylphosphate bond as a kind of high-energy bond.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mixed anhydride between carboxylic acid and phosphoric acid. In 1,3-bisphosphoglycerate, hydrolysis releases ~ -49.3 kJ/mol due to resonance stabilization of carboxylate and phosphate products."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Acylphosphate Bond</h4>\n  <p>1,3-BPG in glycolysis contains acylphosphate. Phosphoglycerate kinase transfers phosphate to ADP, making ATP. Anhydride linkage unstable; products (3-phosphoglycerate, Pi) are resonance-stabilized.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4b(iv)",
+    "topic": [
+      "Bioenergetics",
+      "High-energy bonds",
+      "Thioester bond"
+    ],
+    "Question": {
+      "content": "Describe the thioester bond as a kind of high-energy bond.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bond between carbonyl and sulfur (acetyl-CoA). Hydrolysis releases ~ -31.5 kJ/mol. Poor orbital overlap with sulfur limits resonance stabilization; products (acetate, CoA-SH) are more stable."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Thioester Bond</h4>\n  <p>Acetyl-CoA central in metabolism. Sulfur larger than oxygen → poorer resonance in thioester than oxygen ester. Hydrolysis yields carboxylate ion (strong resonance) and free thiol. Drives condensation reactions.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5a",
+    "topic": [
+      "Cell wall",
+      "Plant cells",
+      "Botany"
+    ],
+    "Question": {
+      "content": "Explain the functions of the cell wall in a plant.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Provides structural support, determines cell shape, withstands turgor pressure, acts as pathogen barrier, regulates adhesion via plasmodesmata, stores carbohydrates, participates in signaling."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Plant Cell Wall Functions</h4>\n  <ul>\n    <li><strong>Support:</strong> Cellulose microfibrils give strength.</li>\n    <li><strong>Turgor:</strong> Prevents bursting; maintains rigidity.</li>\n    <li><strong>Defense:</strong> First barrier; can reinforce with lignin.</li>\n    <li><strong>Adhesion:</strong> Middle lamella (pectin) glues cells.</li>\n    <li><strong>Communication:</strong> Plasmodesmata allow transport.</li>\n    <li><strong>Storage:</strong> Polysaccharides mobilized during germination.</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5b(i)",
+    "topic": [
+      "Prokaryotes",
+      "Carboxysome",
+      "Bacterial organelles"
+    ],
+    "Question": {
+      "content": "Outline the roles of carboxysome in a prokaryote.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bacterial microcompartment in cyanobacteria and chemoautotrophs. Concentrates CO₂ around RuBisCO, enhancing carbon fixation. Contains carbonic anhydrase and RuBisCO; protein shell limits CO₂ escape."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Carboxysome</h4>\n  <p>Polyhedral protein shell. Carbonic anhydrase converts HCO₃⁻ to CO₂ inside; RuBisCO fixes CO₂. Raises local CO₂ concentration, reduces photorespiration. Essential in low-CO₂ environments.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5b(ii)",
+    "topic": [
+      "Prokaryotes",
+      "Thylakoid",
+      "Photosynthesis"
+    ],
+    "Question": {
+      "content": "Outline the roles of thylakoid in a prokaryote.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Internal membrane system in cyanobacteria. Site of photosynthesis: contains photosystems, electron transport chain, ATP synthase. Captures light, generates ATP and NADPH, splits water (O₂ evolution)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Thylakoid in Prokaryotes</h4>\n  <p>Cyanobacteria have thylakoids with phycobilisomes (antenna complexes). Perform light reactions: light absorption, electron transport, proton gradient, ATP synthesis (photophosphorylation), NADPH production, O₂ release.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5b(iii)",
+    "topic": [
+      "Prokaryotes",
+      "Chlorosome",
+      "Photosynthesis"
+    ],
+    "Question": {
+      "content": "Outline the roles of chlorosome in a prokaryote.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Light-harvesting structure in green sulfur bacteria. Contains bacteriochlorophyll aggregates (no proteins). Captures very low light, transfers energy to reaction center via baseplate. Enables photosynthesis in deep sea/anoxic environments."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Chlorosome</h4>\n  <p>Largest and most efficient antenna (up to 250,000 BChl molecules). Absorbs far-red light (740 nm). Self-assembled BChl aggregates. Found in green sulfur bacteria (anoxygenic phototrophs) living in low-light, sulfidic waters.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6a",
+    "topic": [
+      "Microbiology",
+      "Nutritional types",
+      "Autotrophs"
+    ],
+    "Question": {
+      "content": "Differentiate between photoautotrophs and chemolithotrophs.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Photoautotrophs: energy from light, carbon from CO₂ (plants, cyanobacteria). Chemolithotrophs: energy from inorganic compounds (H₂S, NH₃, Fe²⁺), carbon from CO₂ (nitrifying bacteria, sulfur oxidizers)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Photoautotrophs vs Chemolithotrophs</h4>\n  <p>Both fix CO₂. Photoautotrophs use light (photosynthesis). Chemolithotrophs oxidize inorganic chemicals (e.g., Nitrosomonas oxidizes NH₃ to NO₂⁻). Chemolithotrophs are important in biogeochemical cycles.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6b(i)",
+    "topic": [
+      "Cell biology",
+      "Mitochondria",
+      "Eukaryotic organelles"
+    ],
+    "Question": {
+      "content": "Explain the importance of mitochondria to eukaryotic cell.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Powerhouse of cell: produces ATP via oxidative phosphorylation. Also regulates calcium homeostasis, apoptosis, heme synthesis, thermogenesis. Contains own DNA (endosymbiotic origin)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mitochondria</h4>\n  <p>Double membrane: inner membrane folds (cristae) host ETC, matrix has Krebs cycle. Proton gradient drives ATP synthesis. Release cytochrome c in apoptosis. mtDNA maternally inherited.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6b(ii)",
+    "topic": [
+      "Cell biology",
+      "Endoplasmic Reticulum",
+      "Eukaryotic organelles"
+    ],
+    "Question": {
+      "content": "Explain the importance of endoplasmic reticulum to eukaryotic cell.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rough ER: protein synthesis (ribosomes), folding, glycosylation. Smooth ER: lipid synthesis, detoxification, calcium storage. Quality control and transport via vesicles."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Endoplasmic Reticulum</h4>\n  <p>RER: secretory/membrane proteins synthesized, folded, glycosylated. Chaperones assist. SER: phospholipids, steroids; detoxifies drugs (cytochrome P450); stores Ca²⁺ (sarcoplasmic reticulum in muscle).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6b(iii)",
+    "topic": [
+      "Cell biology",
+      "Peroxisomes",
+      "Eukaryotic organelles"
+    ],
+    "Question": {
+      "content": "Explain the importance of peroxisomes to eukaryotic cell.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Contain oxidative enzymes. Break down very long chain fatty acids (β-oxidation), detoxify H₂O₂ via catalase, synthesize plasmalogens, bile acids. Participate in photorespiration (plants)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Peroxisomes</h4>\n  <p>Single membrane. Produce H₂O₂ (oxidases) and destroy it (catalase). β-oxidation of VLCFAs. Glyoxysomes (plants) convert fats to carbs. Defects cause Zellweger syndrome.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6b(iv)",
+    "topic": [
+      "Cell biology",
+      "Nucleus",
+      "Eukaryotic organelles"
+    ],
+    "Question": {
+      "content": "Explain the importance of nucleus to eukaryotic cell.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Control center: stores DNA, directs transcription, replicates DNA, assembles ribosomes (nucleolus). Nuclear envelope separates transcription from translation, allowing complex regulation."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nucleus</h4>\n  <p>Double membrane with pores. Chromatin (DNA + histones). Nucleolus synthesizes rRNA, assembles ribosomes. mRNA processed (capping, splicing, polyadenylation) before export. Regulates gene expression via transcription factors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a",
+    "topic": [
+      "Cell biology",
+      "Prokaryotes",
+      "Eukaryotes"
+    ],
+    "Question": {
+      "content": "Differentiate between prokaryotic and eukaryotic cell.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prokaryotes: no nucleus, no organelles, circular DNA, 70S ribosomes, binary fission. Eukaryotes: nucleus, organelles, linear chromosomes, 80S ribosomes, mitosis/meiosis."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Prokaryotic vs Eukaryotic</h4>\n  <p>Prokaryotes (bacteria, archaea): 0.2-2 µm, nucleoid, no ER/Golgi. Eukaryotes (plants, animals, fungi, protists): 10-100 µm, membrane-bound organelles, cytoskeleton. Eukaryotes evolved from prokaryotes via endosymbiosis.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a(i)",
+    "topic": [
+      "Membrane Transport",
+      "Uniport",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Explain uniport as a mode of membrane transport.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Facilitated diffusion of a single solute down its gradient via carrier protein (uniporter). No energy required. Example: GLUT1 glucose transporter."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Uniport</h4>\n  <p>Single substrate, one direction. Uniporter undergoes conformational change. Saturable (V<sub>max</sub>), specific. GLUT1 transports glucose into erythrocytes. Aquaporins (water) also function as uniporters.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a(ii)",
+    "topic": [
+      "Membrane Transport",
+      "Symport",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Explain symport as a mode of membrane transport.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Secondary active transport: two solutes move same direction. One solute (e.g., Na⁺) moves down gradient, driving the other against its gradient. Example: SGLT (Na⁺-glucose symporter)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Symport</h4>\n  <p>Co-transport. Na⁺ gradient (from Na⁺/K⁺ ATPase) drives glucose uptake in intestine/kidney. Stoichiometry varies (2 Na⁺:1 glucose). Electrogenic or electroneutral. Essential for nutrient uptake.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a(iii)",
+    "topic": [
+      "Membrane Transport",
+      "Antiport",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Explain antiport as a mode of membrane transport.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Secondary active transport: two solutes move opposite directions. Downhill movement of one drives uphill movement of the other. Examples: Na⁺/Ca²⁺ exchanger, Na⁺/H⁺ exchanger."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Antiport</h4>\n  <p>Exchange transport. NCX (cardiac) extrudes Ca²⁺ using Na⁺ influx. NHE regulates pH (H⁺ out, Na⁺ in). Mitochondrial ADP-ATP translocase exchanges ADP in for ATP out.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a(iv)",
+    "topic": [
+      "Membrane Transport",
+      "Facilitated Diffusion",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Explain facilitated diffusion as a mode of membrane transport.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Passive transport down gradient via carrier or channel proteins. No energy. Saturable, specific. Examples: GLUT transporters (carriers), ion channels (K⁺ channels), aquaporins."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Facilitated Diffusion</h4>\n  <p>Carriers bind solute, change shape. Channels form pores. Faster than simple diffusion. Inhibitable (cytochalasin B blocks GLUT). Essential for polar molecules/ions.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a(v)",
+    "topic": [
+      "Membrane Transport",
+      "Active Transport",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Explain active transport as a mode of membrane transport.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Movement against gradient requiring energy (ATP). Primary active transport uses ATP directly (Na⁺/K⁺ ATPase). Secondary uses ion gradients (symport/antiport). Maintains concentration differences."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Active Transport</h4>\n  <p>Na⁺/K⁺ ATPase: 3 Na⁺ out, 2 K⁺ in per ATP. Creates gradients used by secondary transport. Ca²⁺ ATPase keeps cytosolic Ca²⁺ low. H⁺ ATPase acidifies lysosomes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a(vi)",
+    "topic": [
+      "Membrane Transport",
+      "Passive Transport",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Explain passive transport as a mode of membrane transport.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Movement down gradient without energy. Includes simple diffusion (lipid-soluble), facilitated diffusion (carriers/channels), and osmosis (water). Driven by entropy."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Passive Transport</h4>\n  <p>Simple diffusion: O₂, CO₂, lipids. Facilitated: glucose, ions, water (aquaporins). Osmosis: water from low solute to high solute. All stop at equilibrium.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7b",
+    "topic": [
+      "Membrane Transport",
+      "Cell Membrane",
+      "Diagram"
+    ],
+    "Question": {
+      "content": "With a well labeled diagram of a biological membrane, describe the transport across the membrane.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Diagram shows phospholipid bilayer with proteins. Simple diffusion through lipid. Channel-mediated (ions). Carrier-mediated (uniport, symport, antiport). Active transport pumps (Na⁺/K⁺ ATPase). Osmosis via aquaporins."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Membrane Transport Diagram</h4>\n  <p>Bilayer with integral proteins. Simple diffusion: small nonpolar. Channels: ions (gated). Carriers: GLUT (uniport). Symporter: Na⁺-glucose. Antiporter: Na⁺/Ca²⁺. Pump: Na⁺/K⁺ ATPase. Aquaporin: water. All transport types maintain cellular homeostasis.</p>\n</div>"
+    }
+  }
+]
