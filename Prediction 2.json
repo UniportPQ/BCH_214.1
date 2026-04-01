@@ -1,0 +1,1664 @@
+[{
+  "type": "pageInfo",
+  "kind": "subjective and objective",
+  "course_title": "General Biochemistry II",
+  "code": "BCH 214.1",
+  "session": "Prediction 2",
+  "topics":["Biology", "Cell Biology", "Cell Theory", "Prokaryotes", "Eukaryotes", "Cell Organelles", "Plant Cells", "Animal Cells", "Biochemistry", "Membrane Structure", "Fluid Mosaic Model", "Membrane Transport", "Lipids", "Phospholipids", "Fatty Acids", "Essential Fatty Acids", "Cholesterol", "Lipoproteins", "Sphingolipids", "Bioenergetics", "Thermodynamics", "ATP", "Nucleic Acids", "Nucleosides", "Nucleotides", "DNA", "RNA", "Proteins", "Amino Acids", "Enzymes", "Enzyme Kinetics", "Enzyme Inhibition"],
+  "time": "120"
+},
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+
+  {
+    "type": "heading",
+    "heading": "Section 1"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Biology", "Cell Biology", "Cell Theory"],
+    "Question": {
+      "content": "Which of the following best summarizes the cell theory?",
+      "type": "OBJ",
+      "options": [
+        "All organisms are made of atoms",
+        "All living things are made of cells, the cell is the basic unit of life, and cells arise from pre-existing cells",
+        "Cells can arise spontaneously from non-living matter",
+        "Only animals are made of cells"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Three Pillars of Cell Theory</h4>\n<p>The answer is <strong>B</strong>. The cell theory has three core statements developed over time by Schleiden, Schwann, and Virchow.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>The 3 statements:</strong><br>\n1. All living organisms are composed of one or more cells<br>\n2. The cell is the basic structural and functional unit of life<br>\n3. All cells arise from pre-existing cells (<em>Omnis cellula e cellula</em> — Virchow, 1858)<br><br>\n<em>Spontaneous generation was disproven by Pasteur — cells do NOT arise from non-living matter.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All living things are made of cells, the cell is the basic unit of life, and cells arise from pre-existing cells"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Biology", "Cell Biology", "Cell Theory"],
+    "Question": {
+      "content": "The scientist who first observed cells using a microscope and coined the term 'cell' was:",
+      "type": "OBJ",
+      "options": ["Antonie van Leeuwenhoek", "Matthias Schleiden", "Robert Hooke", "Rudolf Virchow"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Robert Hooke — Father of the Cell</h4>\n<p>The answer is <strong>Robert Hooke (1665)</strong>. He observed thin slices of cork under a compound microscope and named the tiny compartments \"cells\" because they reminded him of monk's rooms (cellulae).</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Key scientists timeline:</strong><br>\n• <em>Hooke (1665)</em> — coined \"cell\"<br>\n• <em>Leeuwenhoek (~1674)</em> — first to observe living cells (bacteria, protozoa)<br>\n• <em>Schleiden &amp; Schwann (1838–39)</em> — all organisms made of cells<br>\n• <em>Virchow (1858)</em> — cells from pre-existing cells\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Robert Hooke"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Biology", "Cell Biology", "Cell Theory"],
+    "Question": {
+      "content": "Which of the following statements is INCONSISTENT with modern cell theory?",
+      "type": "OBJ",
+      "options": [
+        "All cells arise from pre-existing cells",
+        "Cells can arise spontaneously from non-living matter",
+        "The cell is the basic unit of life",
+        "All organisms are made of cells"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>What Cell Theory REJECTS</h4>\n<p>The answer is <strong>B</strong>. The idea that life can arise spontaneously from non-living matter is called <em>abiogenesis</em> or <em>spontaneous generation</em>. Louis Pasteur definitively disproved this in 1859 with his swan-neck flask experiment.</p>\n<div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>⚠️ Exam trap:</strong> Spontaneous generation is the classic \"trick\" option. Modern cell theory explicitly states cells ONLY come from pre-existing cells — never from non-living material.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cells can arise spontaneously from non-living matter"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Biology", "Cell Biology", "Cell Theory"],
+    "Question": {
+      "content": "Which scientist contributed the idea that ALL plants are made of cells?",
+      "type": "OBJ",
+      "options": ["Rudolf Virchow", "Robert Hooke", "Matthias Schleiden", "Theodor Schwann"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Schleiden vs Schwann</h4>\n<p>The answer is <strong>Matthias Schleiden (1838)</strong>. He concluded that all plant tissues are composed of cells. A year later, Theodor Schwann extended this to animals.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Easy way to remember:</strong><br>\n• <em>Schleiden</em> → <strong>S</strong>hrubs (plants) 🌿<br>\n• <em>Schwann</em> → <strong>S</strong>wans are animals 🦢<br>\n• Together they said: all organisms are made of cells.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Matthias Schleiden"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 2: Prokaryotic vs Eukaryotic Cells"
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Biology", "Cell Biology", "Prokaryotes", "Eukaryotes"],
+    "Question": {
+      "content": "Which of the following is the MOST fundamental difference between prokaryotic and eukaryotic cells?",
+      "type": "OBJ",
+      "options": [
+        "Eukaryotes are larger",
+        "Eukaryotes have a membrane-bound nucleus; prokaryotes do not",
+        "Prokaryotes lack ribosomes",
+        "Eukaryotes lack a cell membrane"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Defining Difference</h4>\n<p>The answer is <strong>B</strong>. The word \"eukaryote\" literally means <em>\"true nucleus\"</em> (eu = true, karyon = nucleus). The presence of a membrane-bound nucleus is the defining feature.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Both cell types HAVE:</strong><br>\n• Cell membrane, ribosomes, DNA, cytoplasm<br><br>\n<strong style='color: var(--strongColor);'>Only Eukaryotes HAVE:</strong><br>\n• Membrane-bound nucleus, mitochondria, ER, Golgi apparatus<br><br>\n<em>Note: Both have ribosomes, but different sizes — prokaryotes: 70S; eukaryotes: 80S</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Eukaryotes have a membrane-bound nucleus; prokaryotes do not"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Biology", "Cell Biology", "Prokaryotes"],
+    "Question": {
+      "content": "Which of the following organisms is prokaryotic?",
+      "type": "OBJ",
+      "options": ["Amoeba", "Yeast", "Escherichia coli", "Mushroom"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Prokaryote Examples</h4>\n<p>The answer is <strong>Escherichia coli (E. coli)</strong>. It is a bacterium — the most classic prokaryote.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Classification:</strong><br>\n• <em>E. coli</em> — bacterium → Prokaryote ✅<br>\n• <em>Amoeba</em> — protozoan → Eukaryote<br>\n• <em>Yeast</em> — fungus → Eukaryote<br>\n• <em>Mushroom</em> — fungus → Eukaryote<br><br>\n<em>All bacteria and archaea are prokaryotes.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Escherichia coli"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Biology", "Cell Biology", "Prokaryotes", "Eukaryotes"],
+    "Question": {
+      "content": "The ribosome size in prokaryotic cells is:",
+      "type": "OBJ",
+      "options": ["80S", "70S", "60S", "40S"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Ribosome Sizes</h4>\n<p>The answer is <strong>70S</strong>. Prokaryotic ribosomes are smaller (70S) than eukaryotic ribosomes (80S). The \"S\" stands for Svedberg units — a measure of sedimentation rate.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Ribosome subunits:</strong><br>\n• Prokaryote 70S = 50S + 30S subunits<br>\n• Eukaryote 80S = 60S + 40S subunits<br><br>\n<em>This difference is medically important — antibiotics like streptomycin target the 70S ribosome, killing bacteria without harming human (80S) ribosomes.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "70S"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Biology", "Cell Biology", "Prokaryotes", "Eukaryotes"],
+    "Question": {
+      "content": "Which of the following structures is found in prokaryotes but NOT in eukaryotes?",
+      "type": "OBJ",
+      "options": ["Mitochondria", "Nucleus", "Plasmid", "Golgi apparatus"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Plasmids — Prokaryote Exclusive</h4>\n<p>The answer is <strong>Plasmid</strong>. Plasmids are small, circular, extrachromosomal DNA molecules found in bacteria. They are separate from the main chromosome and can replicate independently.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Why plasmids matter:</strong><br>\n• Carry genes for antibiotic resistance<br>\n• Used extensively in genetic engineering<br>\n• Can be transferred between bacteria (conjugation)<br><br>\n<em>Eukaryotes do NOT naturally have plasmids (though they are used in laboratory genetic work).</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plasmid"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 3: Cell Organelles & Their Functions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Biology", "Cell Biology", "Cell Organelles"],
+    "Question": {
+      "content": "The nucleolus, found inside the nucleus, is primarily responsible for:",
+      "type": "OBJ",
+      "options": [
+        "DNA replication",
+        "Synthesis of ribosomal RNA (rRNA) and assembly of ribosome subunits",
+        "Protein translation",
+        "Energy production"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Nucleolus</h4>\n<p>The answer is <strong>B</strong>. The nucleolus is a dense region inside the nucleus where ribosomal RNA (rRNA) genes are actively transcribed and ribosome subunits begin assembly.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Path of a ribosome:</strong><br>\n1. rRNA made in nucleolus<br>\n2. Combined with ribosomal proteins → subunits<br>\n3. Exported to cytoplasm via nuclear pores<br>\n4. Subunits assemble → functional ribosome for translation\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Synthesis of ribosomal RNA (rRNA) and assembly of ribosome subunits"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Biology", "Cell Biology", "Cell Organelles"],
+    "Question": {
+      "content": "The rough endoplasmic reticulum (RER) differs from the smooth ER (SER) in that it:",
+      "type": "OBJ",
+      "options": [
+        "Produces lipids",
+        "Has ribosomes on its surface",
+        "Detoxifies drugs",
+        "Stores calcium ions"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>RER vs SER</h4>\n<p>The answer is <strong>B</strong>. The RER appears rough because ribosomes are studded on its outer surface. These ribosomes synthesize proteins that are threaded into the RER lumen for processing and export.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Comparison:</strong><br>\n• <em>RER</em> — has ribosomes; makes secretory/membrane proteins<br>\n• <em>SER</em> — no ribosomes; lipid synthesis, drug detox (liver), Ca²⁺ storage (muscle cells)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Has ribosomes on its surface"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Biology", "Cell Biology", "Cell Organelles"],
+    "Question": {
+      "content": "Mitochondria are described as semi-autonomous organelles because:",
+      "type": "OBJ",
+      "options": [
+        "They can move inside the cell",
+        "They have their own DNA and ribosomes",
+        "They produce their own glucose",
+        "They can leave the cell"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Semi-Autonomous Organelles</h4>\n<p>The answer is <strong>B</strong>. Mitochondria (and chloroplasts) contain their own circular DNA and 70S ribosomes — evidence for the endosymbiotic theory, which proposes they were once free-living bacteria engulfed by ancestral eukaryotic cells.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Endosymbiotic Theory (Lynn Margulis):</strong><br>\nMitochondria resemble alpha-proteobacteria in DNA, ribosomes, and double membrane structure. They are \"semi-autonomous\" because they still depend on the nucleus for many proteins.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They have their own DNA and ribosomes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Biology", "Cell Biology", "Cell Organelles"],
+    "Question": {
+      "content": "The process by which a lysosome digests its own cell's damaged organelles is called:",
+      "type": "OBJ",
+      "options": ["Apoptosis", "Autophagy", "Phagocytosis", "Exocytosis"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Autophagy — Cellular Housekeeping</h4>\n<p>The answer is <strong>Autophagy</strong>. Auto = self, phagy = eating. In autophagy, damaged organelles or proteins are enclosed in a membrane (autophagosome), which fuses with a lysosome for digestion.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Don't confuse:</strong><br>\n• <em>Autophagy</em> — digests own organelles/proteins ✅<br>\n• <em>Phagocytosis</em> — engulfs external particles (bacteria)<br>\n• <em>Apoptosis</em> — programmed cell death (whole cell)<br>\n• <em>Autolysis</em> — lysosome ruptures, destroys whole cell\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Autophagy"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Biology", "Cell Biology", "Cell Organelles"],
+    "Question": {
+      "content": "Which organelle is responsible for the synthesis of lipids and steroid hormones?",
+      "type": "OBJ",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Mitochondrion",
+        "Lysosome"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Smooth ER — The Lipid Factory</h4>\n<p>The answer is <strong>Smooth endoplasmic reticulum (SER)</strong>. The SER houses enzymes for lipid biosynthesis, including phospholipids and cholesterol, and is abundant in steroid-secreting cells (adrenal cortex, gonads).</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>SER functions summary:</strong><br>\n1. Lipid and steroid hormone synthesis<br>\n2. Drug and toxin detoxification (liver cells)<br>\n3. Calcium ion storage and release (muscle cells)<br>\n4. Carbohydrate metabolism\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Smooth endoplasmic reticulum"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Biology", "Cell Biology", "Cell Organelles"],
+    "Question": {
+      "content": "Which of the following correctly describes the flow of a newly synthesized secretory protein through the cell?",
+      "type": "OBJ",
+      "options": [
+        "Ribosome → Lysosome → Golgi → Plasma membrane",
+        "Ribosome → RER → Golgi apparatus → Vesicle → Plasma membrane",
+        "Nucleus → SER → Lysosome → Golgi apparatus",
+        "Ribosome → Mitochondrion → Golgi → Secretion"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Secretory Pathway</h4>\n<p>The answer is <strong>B</strong>. This is the classic secretory pathway — sometimes called the \"default pathway\" for membrane and secreted proteins.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Step-by-step:</strong><br>\n1. <strong>Ribosome on RER</strong> — translates the protein into the RER lumen<br>\n2. <strong>RER</strong> — initial folding and N-linked glycosylation<br>\n3. <strong>Vesicle</strong> — transport to Golgi apparatus<br>\n4. <strong>Golgi apparatus</strong> — further modification, sorting, packaging<br>\n5. <strong>Secretory vesicle</strong> — carries protein to plasma membrane (exocytosis)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ribosome → RER → Golgi apparatus → Vesicle → Plasma membrane"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 4: Plant vs Animal Cells"
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Biology", "Cell Biology", "Plant Cells", "Animal Cells"],
+    "Question": {
+      "content": "Which of the following structures is found in plant cells but NOT in animal cells?",
+      "type": "OBJ",
+      "options": ["Mitochondria", "Ribosomes", "Cell wall and chloroplasts", "Nucleus"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Plant Cell Exclusive Structures</h4>\n<p>The answer is <strong>Cell wall and chloroplasts</strong>. These are the two most commonly tested plant-only structures.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Plant vs Animal comparison:</strong><br>\n<table style='width:100%; border-collapse:collapse; margin-top:8px; font-size:0.9em;'>\n<tr style='background: var(--strongColor); color: white;'><th style='padding:5px;'>Structure</th><th style='padding:5px;'>Plant</th><th style='padding:5px;'>Animal</th></tr>\n<tr><td style='padding:5px;'>Cell wall (cellulose)</td><td style='padding:5px; text-align:center;'>✅</td><td style='padding:5px; text-align:center;'>❌</td></tr>\n<tr><td style='padding:5px;'>Chloroplasts</td><td style='padding:5px; text-align:center;'>✅</td><td style='padding:5px; text-align:center;'>❌</td></tr>\n<tr><td style='padding:5px;'>Large central vacuole</td><td style='padding:5px; text-align:center;'>✅</td><td style='padding:5px; text-align:center;'>❌</td></tr>\n<tr><td style='padding:5px;'>Centrioles</td><td style='padding:5px; text-align:center;'>❌</td><td style='padding:5px; text-align:center;'>✅</td></tr>\n</table>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cell wall and chloroplasts"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Biology", "Cell Biology", "Plant Cells"],
+    "Question": {
+      "content": "The plant cell wall is primarily composed of:",
+      "type": "OBJ",
+      "options": ["Chitin", "Peptidoglycan", "Cellulose", "Glycogen"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Cell Wall Composition</h4>\n<p>The answer is <strong>Cellulose</strong>. Plant cell walls are made of long cellulose microfibrils embedded in a matrix, providing structural support and rigidity.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Cell wall composition by organism:</strong><br>\n• <em>Plants</em> — Cellulose<br>\n• <em>Fungi</em> — Chitin<br>\n• <em>Bacteria</em> — Peptidoglycan<br>\n• <em>Animals</em> — No cell wall\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cellulose"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Biology", "Cell Biology", "Animal Cells"],
+    "Question": {
+      "content": "Centrioles play a critical role in:",
+      "type": "OBJ",
+      "options": [
+        "Photosynthesis",
+        "Forming the mitotic spindle during cell division",
+        "Lipid synthesis",
+        "Protein secretion"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Centrioles & Cell Division</h4>\n<p>The answer is <strong>Forming the mitotic spindle during cell division</strong>. Centrioles are cylindrical structures made of microtubules, found in the centrosome of animal cells. They organize the spindle fibers that pull chromosomes apart during mitosis and meiosis.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Note:</strong> Most plant cells can still divide without centrioles, using alternative spindle-organizing mechanisms. This is why centrioles are <em>absent</em> in most plant cells.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Forming the mitotic spindle during cell division"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 5: Biological Membranes & The Fluid Mosaic Model"
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Biochemistry", "Membrane Structure", "Fluid Mosaic Model"],
+    "Question": {
+      "content": "The fluid mosaic model of the plasma membrane was proposed by:",
+      "type": "OBJ",
+      "options": ["Watson and Crick", "Singer and Nicolson", "Davson and Danielli", "Schleiden and Schwann"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>History of Membrane Models</h4>\n<p>The answer is <strong>Singer and Nicolson (1972)</strong>. Their fluid mosaic model replaced the older Davson-Danielli sandwich model, incorporating evidence from electron microscopy and freeze-fracture studies.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Previous model:</strong><br>\n• <em>Davson &amp; Danielli (1935)</em> — proposed the sandwich model: protein-lipid-protein layers. This was disproved because it placed all proteins on the surface, which did not match experimental evidence.<br><br>\n<em>Singer &amp; Nicolson showed proteins are embedded throughout the bilayer.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Singer and Nicolson"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Biochemistry", "Membrane Structure"],
+    "Question": {
+      "content": "Integral (intrinsic) membrane proteins differ from peripheral (extrinsic) proteins in that they:",
+      "type": "OBJ",
+      "options": [
+        "Are only found on the outer leaflet",
+        "Are loosely attached to the membrane surface",
+        "Span through the lipid bilayer",
+        "Are made of carbohydrates"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Integral vs Peripheral Proteins</h4>\n<p>The answer is <strong>Span through the lipid bilayer</strong>. Integral proteins (also called transmembrane proteins) are embedded within the hydrophobic core of the bilayer and require detergents to be extracted.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Comparison:</strong><br>\n• <em>Integral proteins</em> — penetrate or span the bilayer; function as channels, receptors, carriers<br>\n• <em>Peripheral proteins</em> — loosely associated with the surface; can be removed by mild treatments (high salt, pH change); often function in signaling and cytoskeletal attachment\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Span through the lipid bilayer"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Biochemistry", "Membrane Structure"],
+    "Question": {
+      "content": "The glycocalyx is formed by carbohydrates attached to membrane lipids and proteins. Its primary function is:",
+      "type": "OBJ",
+      "options": [
+        "Energy storage",
+        "Cell recognition, adhesion, and signaling",
+        "DNA protection",
+        "Lipid synthesis"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Glycocalyx</h4>\n<p>The answer is <strong>Cell recognition, adhesion, and signaling</strong>. The glycocalyx is a carbohydrate-rich coat on the extracellular surface, formed by glycoproteins and glycolipids.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Functions of glycocalyx:</strong><br>\n1. <strong>Cell-cell recognition</strong> — immune cells identify foreign cells<br>\n2. <strong>Cell adhesion</strong> — cells stick to each other and to the extracellular matrix<br>\n3. <strong>Receptor activity</strong> — binds signaling molecules (hormones, growth factors)<br>\n4. <strong>Protection</strong> — cushions the cell surface\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cell recognition, adhesion, and signaling"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Biochemistry", "Membrane Structure"],
+    "Question": {
+      "content": "Membrane fluidity INCREASES when:",
+      "type": "OBJ",
+      "options": [
+        "Temperature decreases",
+        "Proportion of saturated fatty acids increases",
+        "Proportion of unsaturated fatty acids increases",
+        "More cholesterol is added at high temperatures"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>What Controls Membrane Fluidity?</h4>\n<p>The answer is <strong>C</strong>. Unsaturated fatty acids have kinked tails (from double bonds) that prevent tight packing, keeping the membrane more fluid.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Fluidity factors:</strong><br>\n• ↑ Temperature → ↑ Fluidity<br>\n• ↑ Unsaturated fatty acids → ↑ Fluidity (kinks prevent packing)<br>\n• ↑ Saturated fatty acids → ↓ Fluidity (straight chains pack tightly)<br>\n• Cholesterol = <em>fluidity buffer</em> — increases fluidity at low temps, decreases it at high temps\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proportion of unsaturated fatty acids increases"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Biochemistry", "Membrane Structure"],
+    "Question": {
+      "content": "The phospholipid bilayer is described as selectively permeable. This means:",
+      "type": "OBJ",
+      "options": [
+        "All molecules pass freely",
+        "No molecules can pass at all",
+        "Small nonpolar molecules pass freely; large and charged molecules do not",
+        "Only water can pass"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Selective Permeability</h4>\n<p>The answer is <strong>C</strong>. The hydrophobic core of the bilayer allows only certain molecules through.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Permeability rules:</strong><br>\n• <em>Freely pass</em> — small nonpolar molecules (O₂, CO₂, N₂), small uncharged polar (water, ethanol)<br>\n• <em>Pass slowly</em> — large uncharged polar molecules (glucose)<br>\n• <em>Cannot pass unaided</em> — ions (Na⁺, K⁺, Cl⁻), large charged molecules, proteins<br><br>\n<em>Ions and large polar molecules require protein channels or carriers.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Small nonpolar molecules pass freely; large and charged molecules do not"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Biochemistry", "Membrane Structure"],
+    "Question": {
+      "content": "The two leaflets (inner and outer) of the plasma membrane differ in lipid composition. This asymmetry is maintained by an enzyme called:",
+      "type": "OBJ",
+      "options": ["Lipase", "Flippase", "Kinase", "Phospholipase"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Membrane Asymmetry</h4>\n<p>The answer is <strong>Flippase</strong>. Flippases (and floppases) are ATP-dependent enzymes that move specific phospholipids from one leaflet to the other, maintaining membrane asymmetry.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Outer leaflet:</strong> Phosphatidylcholine, sphingomyelin<br>\n<strong>Inner leaflet:</strong> Phosphatidylserine, phosphatidylethanolamine<br><br>\n<em>During apoptosis, phosphatidylserine flips to the outer leaflet — this is a \"eat me\" signal for macrophages.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Flippase"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 6: Membrane Transport"
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Biochemistry", "Membrane Transport"],
+    "Question": {
+      "content": "A uniport transport protein moves:",
+      "type": "OBJ",
+      "options": [
+        "Two substances in the same direction",
+        "Two substances in opposite directions",
+        "A single substance in one direction",
+        "Substances only by active transport"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Uniport, Symport, Antiport</h4>\n<p>The answer is <strong>A single substance in one direction</strong>. Uniporters transport only one type of molecule across the membrane.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Carrier protein types:</strong><br>\n• <em>Uniport</em> — 1 substance, 1 direction (e.g., GLUT glucose transporter)<br>\n• <em>Symport</em> — 2 substances, same direction (e.g., Na⁺-glucose cotransporter)<br>\n• <em>Antiport</em> — 2 substances, opposite directions (e.g., Na⁺/Ca²⁺ exchanger)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A single substance in one direction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Biochemistry", "Membrane Transport"],
+    "Question": {
+      "content": "In the intestine, glucose absorption across the intestinal epithelium uses a Na⁺-glucose cotransporter. This is an example of:",
+      "type": "OBJ",
+      "options": ["Uniport", "Antiport", "Symport", "Simple diffusion"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Symport in Action</h4>\n<p>The answer is <strong>Symport</strong>. The Na⁺-glucose cotransporter (SGLT) moves both Na⁺ and glucose in the same direction (into the cell). The energy comes from the Na⁺ gradient (maintained by the Na⁺/K⁺ pump) — this is called <em>secondary active transport</em>.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Important concept:</strong><br>\nGlucose moves against its concentration gradient (low → high), but the energy comes from Na⁺ moving down its gradient — so no ATP is directly used. This is <em>secondary</em> active transport via symport.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Symport"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Biochemistry", "Membrane Transport"],
+    "Question": {
+      "content": "Facilitated diffusion differs from simple diffusion in that it:",
+      "type": "OBJ",
+      "options": [
+        "Requires ATP",
+        "Moves substances against their gradient",
+        "Requires membrane transport proteins but no energy",
+        "Only works for nonpolar molecules"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Facilitated Diffusion</h4>\n<p>The answer is <strong>C</strong>. Facilitated diffusion is still passive (no ATP), but it requires protein channels or carrier proteins to help large or charged molecules cross the membrane down their gradient.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Comparison table:</strong><br>\n<table style='width:100%; border-collapse:collapse; font-size:0.85em; margin-top:8px;'>\n<tr style='background: var(--strongColor); color: white;'><th style='padding:4px;'>Feature</th><th style='padding:4px;'>Simple</th><th style='padding:4px;'>Facilitated</th></tr>\n<tr><td style='padding:4px;'>Protein needed?</td><td style='padding:4px; text-align:center;'>No</td><td style='padding:4px; text-align:center;'>Yes</td></tr>\n<tr><td style='padding:4px;'>ATP needed?</td><td style='padding:4px; text-align:center;'>No</td><td style='padding:4px; text-align:center;'>No</td></tr>\n<tr><td style='padding:4px;'>Molecules</td><td style='padding:4px;'>Small nonpolar</td><td style='padding:4px;'>Glucose, ions</td></tr>\n</table>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Requires membrane transport proteins but no energy"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Biochemistry", "Membrane Transport"],
+    "Question": {
+      "content": "Endocytosis that specifically engulfs large solid particles (such as bacteria) is called:",
+      "type": "OBJ",
+      "options": ["Pinocytosis", "Receptor-mediated endocytosis", "Phagocytosis", "Exocytosis"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Types of Endocytosis</h4>\n<p>The answer is <strong>Phagocytosis</strong> (cell eating). It is used by immune cells (macrophages, neutrophils) to engulf bacteria and cellular debris.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Endocytosis types:</strong><br>\n• <em>Phagocytosis</em> — engulfs large solid particles (\"cell eating\")<br>\n• <em>Pinocytosis</em> — engulfs extracellular fluid and small solutes (\"cell drinking\")<br>\n• <em>Receptor-mediated endocytosis</em> — specific molecules bind receptors on cell surface → clathrin-coated pit forms → internalized (e.g., LDL uptake)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phagocytosis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Biochemistry", "Membrane Transport"],
+    "Question": {
+      "content": "The Na⁺/K⁺-ATPase pump is classified as primary active transport because:",
+      "type": "OBJ",
+      "options": [
+        "It uses the gradient of another ion",
+        "It directly uses ATP hydrolysis to drive transport",
+        "It works by facilitated diffusion",
+        "It only moves Na⁺ ions"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Primary vs Secondary Active Transport</h4>\n<p>The answer is <strong>B</strong>. Primary active transport directly couples ATP hydrolysis to the movement of ions. The Na⁺/K⁺ pump is a classic example.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Why the pump is important:</strong><br>\n1. Maintains low Na⁺ inside / high K⁺ inside<br>\n2. Creates membrane potential (electrical gradient) for nerve/muscle function<br>\n3. Drives secondary active transport (symporters use the Na⁺ gradient created)<br>\n4. Regulates cell volume\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It directly uses ATP hydrolysis to drive transport"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Biochemistry", "Membrane Transport"],
+    "Question": {
+      "content": "When a cell releases substances by fusing intracellular vesicles with the plasma membrane, the process is called:",
+      "type": "OBJ",
+      "options": ["Endocytosis", "Phagocytosis", "Exocytosis", "Osmosis"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Exocytosis</h4>\n<p>The answer is <strong>Exocytosis</strong>. In exocytosis, vesicles containing proteins or other materials fuse with the plasma membrane and release their contents to the extracellular space.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Examples of exocytosis:</strong><br>\n• Secretion of insulin by pancreatic beta cells<br>\n• Release of neurotransmitters from nerve terminals<br>\n• Secretion of digestive enzymes by the pancreas<br>\n• Export of antibodies by plasma cells\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Exocytosis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Biochemistry", "Membrane Transport"],
+    "Question": {
+      "content": "A red blood cell placed in a hypotonic solution (lower solute concentration than the cell) will:",
+      "type": "OBJ",
+      "options": ["Shrink", "Remain unchanged", "Swell and may burst", "Lose all its proteins"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Osmosis and Cell Behavior</h4>\n<p>The answer is <strong>Swell and may burst</strong>. In a hypotonic solution, water moves into the cell by osmosis (from low solute → high solute), causing it to swell. Red blood cells can lyse (burst) — this is called <em>hemolysis</em>.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Osmosis cheat sheet:</strong><br>\n• <em>Hypotonic</em> solution → water enters cell → swells/bursts (lysis)<br>\n• <em>Hypertonic</em> solution → water leaves cell → shrinks (crenation in RBCs)<br>\n• <em>Isotonic</em> solution → no net water movement → normal shape\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Swell and may burst"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": ["Biochemistry", "Membrane Transport"],
+    "Question": {
+      "content": "Aquaporins are membrane channel proteins that specifically facilitate the transport of:",
+      "type": "OBJ",
+      "options": ["Glucose", "Na⁺ ions", "Water molecules", "Amino acids"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Aquaporins — Water Channels</h4>\n<p>The answer is <strong>Water molecules</strong>. Aquaporins are specialized channel proteins that allow rapid, selective passage of water across the membrane — much faster than simple osmosis through the lipid bilayer.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Importance of aquaporins:</strong><br>\n• Kidney tubules — water reabsorption<br>\n• Red blood cells — rapid water flux<br>\n• Plant roots — water uptake<br>\n• Discovered by Peter Agre (Nobel Prize 2003)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Water molecules"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 7: Lipids, Fatty Acids & Cholesterol"
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": ["Biochemistry", "Lipids", "Phospholipids"],
+    "Question": {
+      "content": "The general structure of a phospholipid consists of:",
+      "type": "OBJ",
+      "options": [
+        "Glycerol + three fatty acids + phosphate",
+        "Glycerol + two fatty acids + phosphate group + polar head group",
+        "Sphingosine + fatty acid + phosphate",
+        "Cholesterol + fatty acid + sugar"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Phospholipid Structure</h4>\n<p>The answer is <strong>B</strong>. Glycerophospholipids (the most common type) have a glycerol backbone with two fatty acid chains esterified at C1 and C2, and a phosphate group at C3 linked to a polar head group.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Structure diagram (simplified):</strong><br>\n<pre style='font-size:0.85em; background:var(--transparentBlack); padding:8px; border-radius:4px;'>Polar head group\n      |\n   Phosphate  ← hydrophilic head\n      |\n   Glycerol\n    /     \\\nFA tail   FA tail  ← hydrophobic tails</pre>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glycerol + two fatty acids + phosphate group + polar head group"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": ["Biochemistry", "Lipids", "Fatty Acids"],
+    "Question": {
+      "content": "Oleic acid (18:1, n-9) is classified as a:",
+      "type": "OBJ",
+      "options": [
+        "Saturated fatty acid",
+        "Monounsaturated fatty acid",
+        "Polyunsaturated fatty acid",
+        "Essential fatty acid"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Reading Fatty Acid Notation</h4>\n<p>The answer is <strong>Monounsaturated fatty acid</strong>. The notation 18:1 means 18 carbons with 1 double bond. One double bond = monounsaturated.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Fatty acid notation: C:D (n-x)</strong><br>\n• C = number of carbons<br>\n• D = number of double bonds<br>\n• n-x = position of first double bond from methyl end<br><br>\n<em>Examples:</em><br>\n• 18:0 = Stearic acid (saturated)<br>\n• 18:1(n-9) = Oleic acid (monounsaturated, olive oil)<br>\n• 18:2(n-6) = Linoleic acid (polyunsaturated, essential)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Monounsaturated fatty acid"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": ["Biochemistry", "Lipids", "Essential Fatty Acids"],
+    "Question": {
+      "content": "The two parent essential fatty acids that humans cannot synthesize are:",
+      "type": "OBJ",
+      "options": [
+        "Oleic acid and palmitic acid",
+        "Linoleic acid (omega-6) and alpha-linolenic acid (omega-3)",
+        "Arachidonic acid and DHA",
+        "Stearic acid and lauric acid"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Two Parent Essential Fatty Acids</h4>\n<p>The answer is <strong>Linoleic acid (omega-6) and alpha-linolenic acid (omega-3)</strong>. Humans lack the desaturase enzymes needed to introduce double bonds beyond C9, making these acids dietary essentials.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>From these, the body can make:</strong><br>\n• Linoleic (18:2, n-6) → Arachidonic acid (20:4, n-6) → prostaglandins, leukotrienes<br>\n• Alpha-linolenic (18:3, n-3) → EPA → DHA (important in brain and retina)<br><br>\n<em>Deficiency causes: poor growth, skin problems, impaired brain development.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Linoleic acid (omega-6) and alpha-linolenic acid (omega-3)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": ["Biochemistry", "Lipids", "Cholesterol"],
+    "Question": {
+      "content": "Cholesterol is the precursor for the synthesis of all of the following EXCEPT:",
+      "type": "OBJ",
+      "options": ["Bile acids", "Steroid hormones", "Vitamin D", "Glycogen"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Cholesterol as a Precursor</h4>\n<p>The answer is <strong>Glycogen</strong>. Glycogen is a polysaccharide (carbohydrate) — it is NOT derived from cholesterol. Cholesterol is a sterol lipid, and it gives rise to all steroid-based molecules.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Cholesterol is the precursor for:</strong><br>\n1. <strong>Bile acids</strong> — aid fat digestion in the intestine<br>\n2. <strong>Steroid hormones</strong> — cortisol, aldosterone, estrogen, testosterone, progesterone<br>\n3. <strong>Vitamin D</strong> — synthesized in skin upon UV light exposure<br>\n4. <strong>Membrane cholesterol</strong> — regulates fluidity\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glycogen"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": ["Biochemistry", "Lipids", "Lipoproteins"],
+    "Question": {
+      "content": "Chylomicrons are lipoprotein particles that are synthesized in:",
+      "type": "OBJ",
+      "options": ["The liver", "The kidney", "Intestinal epithelial cells", "Adipose tissue"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Chylomicrons — Dietary Fat Transporters</h4>\n<p>The answer is <strong>Intestinal epithelial cells</strong>. Chylomicrons are the largest lipoproteins, formed in intestinal cells after fat absorption. They transport dietary triglycerides and cholesterol via the lymph (lacteals) to the bloodstream.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Lipoprotein origin summary:</strong><br>\n• <em>Chylomicrons</em> — intestinal cells (dietary fats)<br>\n• <em>VLDL</em> — liver (endogenous triglycerides)<br>\n• <em>LDL</em> — derived from VLDL in bloodstream<br>\n• <em>HDL</em> — liver and intestine\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intestinal epithelial cells"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": ["Biochemistry", "Lipids", "Sphingolipids"],
+    "Question": {
+      "content": "Sphingolipids differ from glycerophospholipids in that they have a backbone of:",
+      "type": "OBJ",
+      "options": ["Glycerol", "Sphingosine (an amino alcohol)", "Cholesterol", "Ribose"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Sphingolipids</h4>\n<p>The answer is <strong>Sphingosine</strong>. Unlike glycerophospholipids (glycerol backbone), sphingolipids are built on sphingosine — a long-chain amino alcohol derived from serine and palmitoyl-CoA.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Types of sphingolipids:</strong><br>\n• <em>Sphingomyelin</em> — found in myelin sheath of nerves; has phosphocholine head<br>\n• <em>Cerebrosides</em> — have a single sugar (glucose or galactose); found in brain<br>\n• <em>Gangliosides</em> — complex oligosaccharide head; important in cell signaling\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sphingosine (an amino alcohol)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": ["Biochemistry", "Lipids", "Cholesterol"],
+    "Question": {
+      "content": "Atherosclerosis is primarily associated with the excessive buildup of which lipoprotein in arterial walls?",
+      "type": "OBJ",
+      "options": ["HDL", "Chylomicron", "LDL", "Albumin"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Atherosclerosis & LDL</h4>\n<p>The answer is <strong>LDL</strong>. Elevated LDL cholesterol is the primary driver of atherosclerosis — LDL particles enter the artery wall, become oxidized, and are engulfed by macrophages, forming foam cells that build up as plaques.</p>\n<div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>⚠️ Atherosclerosis progression:</strong><br>\n1. LDL enters damaged arterial wall<br>\n2. LDL is oxidized → macrophages engulf it → foam cells<br>\n3. Foam cells accumulate → fatty streak → plaque<br>\n4. Plaque hardens → narrows artery → heart attack or stroke\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "LDL"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 8: Bioenergetics & Thermodynamics"
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": ["Biochemistry", "Bioenergetics", "Thermodynamics"],
+    "Question": {
+      "content": "The second law of thermodynamics states that in any spontaneous process:",
+      "type": "OBJ",
+      "options": [
+        "Energy is created",
+        "The total entropy of the universe decreases",
+        "The total entropy of the universe increases",
+        "Energy can be fully converted without loss"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Second Law of Thermodynamics</h4>\n<p>The answer is <strong>C</strong>. The second law states that entropy (disorder) of the universe always increases in any spontaneous process — energy conversions are never 100% efficient; some energy is always lost as heat.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Two laws side by side:</strong><br>\n• <em>1st Law</em> — Energy cannot be created or destroyed (conservation of energy)<br>\n• <em>2nd Law</em> — Entropy of the universe always increases (disorder increases)<br><br>\n<em>Example: When ATP is hydrolyzed, not all the energy goes to useful work — some is lost as heat, increasing overall entropy.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The total entropy of the universe increases"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": ["Biochemistry", "Bioenergetics", "Thermodynamics"],
+    "Question": {
+      "content": "Given: ΔH = −50 kJ/mol, ΔS = +0.10 kJ/mol·K, T = 300 K. What is the value of ΔG?",
+      "type": "OBJ",
+      "options": ["−20 kJ/mol", "−80 kJ/mol", "+80 kJ/mol", "+20 kJ/mol"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Calculating ΔG: Gibbs Equation</h4>\n<p>The answer is <strong>−80 kJ/mol</strong>. Apply the Gibbs free energy equation:</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Formula:</strong><br>\n\\( \\Delta G = \\Delta H - T \\Delta S \\)<br><br>\n<strong>Step-by-step:</strong><br>\n\\( \\Delta G = -50 \\text{ kJ/mol} - (300 \\text{ K} \\times 0.10 \\text{ kJ/mol·K}) \\)<br>\n\\( \\Delta G = -50 - 30 \\)<br>\n\\( \\Delta G = -80 \\text{ kJ/mol} \\)<br><br>\nSince ΔG is negative → the reaction is <strong>spontaneous (exergonic)</strong>.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "−80 kJ/mol"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": ["Biochemistry", "Bioenergetics", "ATP"],
+    "Question": {
+      "content": "The type of bond in ATP whose hydrolysis releases a large amount of free energy is called a:",
+      "type": "OBJ",
+      "options": [
+        "Ester bond",
+        "Glycosidic bond",
+        "Phosphoanhydride bond",
+        "Peptide bond"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The High-Energy Bond in ATP</h4>\n<p>The answer is <strong>Phosphoanhydride bond</strong>. ATP has three phosphate groups. The bond between the β and γ phosphates (and between α and β phosphates) is a phosphoanhydride bond — these release approximately 30.5 kJ/mol when hydrolyzed.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Why is this bond so energetic?</strong><br>\n• Products (ADP + Pᵢ) are more stable than ATP<br>\n• Resonance stabilization after hydrolysis<br>\n• Electrostatic repulsion between negative phosphates is relieved\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phosphoanhydride bond"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": ["Biochemistry", "Bioenergetics", "ATP"],
+    "Question": {
+      "content": "Creatine phosphate (phosphocreatine) functions as an energy reserve by:",
+      "type": "OBJ",
+      "options": [
+        "Directly powering muscle contraction",
+        "Rapidly regenerating ATP from ADP in muscle during intense exercise",
+        "Storing glucose for later use",
+        "Producing NADH for the electron transport chain"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Creatine Phosphate — Instant Energy Reserve</h4>\n<p>The answer is <strong>B</strong>. When muscle ATP is rapidly depleted during intense exercise, creatine phosphate donates its phosphate group to ADP, instantly regenerating ATP — a reaction catalyzed by creatine kinase.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n\\( \\text{Creatine-P} + \\text{ADP} \\xrightarrow{\\text{creatine kinase}} \\text{Creatine} + \\text{ATP} \\)<br><br>\n<em>This buffer lasts only a few seconds but buys time until glycolysis and oxidative phosphorylation can catch up.<br>\nThis is why creatine supplements are popular in sports nutrition.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rapidly regenerating ATP from ADP in muscle during intense exercise"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": ["Biochemistry", "Bioenergetics", "Thermodynamics"],
+    "Question": {
+      "content": "A reaction is said to be endergonic when:",
+      "type": "OBJ",
+      "options": [
+        "ΔG is negative",
+        "ΔG is zero",
+        "ΔG is positive",
+        "ΔH is negative"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Endergonic vs Exergonic</h4>\n<p>The answer is <strong>ΔG is positive</strong>. An endergonic reaction requires an input of free energy — it is non-spontaneous under standard conditions.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Summary:</strong><br>\n• ΔG < 0 → <strong>Exergonic</strong> (releases energy, spontaneous)<br>\n• ΔG > 0 → <strong>Endergonic</strong> (requires energy, non-spontaneous)<br>\n• ΔG = 0 → <strong>Equilibrium</strong> (no net reaction)<br><br>\n<em>In cells, endergonic reactions are driven by coupling them to exergonic reactions like ATP hydrolysis.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ΔG is positive"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": ["Biochemistry", "Bioenergetics", "Thermodynamics"],
+    "Question": {
+      "content": "In biochemistry, oxidation is defined as:",
+      "type": "OBJ",
+      "options": [
+        "Gain of electrons or hydrogen",
+        "Loss of electrons or hydrogen",
+        "Addition of oxygen only",
+        "Transfer of protons between molecules"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Oxidation &amp; Reduction in Biochemistry</h4>\n<p>The answer is <strong>Loss of electrons or hydrogen</strong>. Biological oxidations typically involve removal of hydrogen atoms (H⁺ + e⁻) from substrates, captured by carriers like NAD⁺ and FAD.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Mnemonic — OIL RIG:</strong><br>\n<strong>O</strong>xidation <strong>I</strong>s <strong>L</strong>oss (of electrons)<br>\n<strong>R</strong>eduction <strong>I</strong>s <strong>G</strong>ain (of electrons)<br><br>\n\\( \\text{NAD}^+ + 2H \\rightarrow \\text{NADH} + H^+ \\) ← NAD⁺ is reduced (gains H)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Loss of electrons or hydrogen"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": ["Biochemistry", "Bioenergetics", "ATP"],
+    "Question": {
+      "content": "The standard free energy of hydrolysis of ATP (ΔG°') is approximately:",
+      "type": "OBJ",
+      "options": [
+        "−7.3 kcal/mol (−30.5 kJ/mol)",
+        "+7.3 kcal/mol (+30.5 kJ/mol)",
+        "−0.5 kcal/mol",
+        "−50 kcal/mol"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>ATP Hydrolysis Energy Value</h4>\n<p>The answer is <strong>−7.3 kcal/mol (−30.5 kJ/mol)</strong>. This is a key value to memorize. ATP sits in the \"middle\" of the phosphoryl transfer potential scale — it can donate phosphate to lower-energy molecules and receive phosphate from higher-energy ones.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>High-energy phosphate compounds (ΔG°' of hydrolysis):</strong><br>\nPEP: −14.8 kcal/mol (highest) → ATP: −7.3 → Glucose-6-P: −3.3 kcal/mol (lowest)<br><br>\n<em>This ordering allows ATP to act as the universal energy intermediary.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "−7.3 kcal/mol (−30.5 kJ/mol)"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 9: Nucleosides, Nucleotides & Nucleic Acids"
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": ["Biochemistry", "Nucleic Acids", "Nucleosides", "Nucleotides"],
+    "Question": {
+      "content": "What is the structural difference between a nucleoside and a nucleotide?",
+      "type": "OBJ",
+      "options": [
+        "A nucleoside has a phosphate group; a nucleotide does not",
+        "A nucleotide has a phosphate group; a nucleoside does not",
+        "A nucleoside has a double-stranded structure",
+        "A nucleotide contains only the sugar and base"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Nucleoside vs Nucleotide</h4>\n<p>The answer is <strong>B</strong>. A nucleoside = base + sugar. A nucleotide = base + sugar + one or more phosphate groups.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Examples:</strong><br>\n• <em>Adenosine</em> = adenine + ribose → nucleoside<br>\n• <em>AMP</em> = adenine + ribose + 1 phosphate → nucleotide<br>\n• <em>ADP</em> = adenine + ribose + 2 phosphates → nucleotide<br>\n• <em>ATP</em> = adenine + ribose + 3 phosphates → nucleotide<br><br>\n<em>Memory trick: NucleotIDE = nucleosIDE + phosphate</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A nucleotide has a phosphate group; a nucleoside does not"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": ["Biochemistry", "Nucleic Acids", "Nucleosides"],
+    "Question": {
+      "content": "Deoxyadenosine is a nucleoside composed of:",
+      "type": "OBJ",
+      "options": [
+        "Adenine + ribose",
+        "Adenine + deoxyribose",
+        "Adenine + deoxyribose + phosphate",
+        "Guanine + deoxyribose"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Deoxyribonucleoside Naming</h4>\n<p>The answer is <strong>Adenine + deoxyribose</strong>. The prefix \"deoxy\" tells you the sugar is deoxyribose (missing the 2'-OH). No phosphate = nucleoSIDE not nucleoTIDE.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Naming guide:</strong><br>\n• Base alone: adenine, guanine, cytosine...<br>\n• + ribose → nucleoside: adenosine, guanosine...<br>\n• + deoxyribose → deoxynucleoside: deoxyadenosine, deoxythymidine...<br>\n• + phosphate(s) → nucleotide: AMP, ADP, ATP...\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adenine + deoxyribose"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": ["Biochemistry", "Nucleic Acids", "DNA", "RNA"],
+    "Question": {
+      "content": "Which of the following is a difference between DNA and RNA?",
+      "type": "OBJ",
+      "options": [
+        "DNA contains uracil; RNA contains thymine",
+        "DNA is single-stranded; RNA is double-stranded",
+        "DNA contains deoxyribose and thymine; RNA contains ribose and uracil",
+        "DNA and RNA have identical base compositions"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>DNA vs RNA — Key Differences</h4>\n<p>The answer is <strong>C</strong>. This option correctly states both differences: the sugar type AND the unique base for each.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<table style='width:100%; border-collapse:collapse; font-size:0.85em;'>\n<tr style='background: var(--strongColor); color: white;'><th style='padding:5px;'>Feature</th><th style='padding:5px;'>DNA</th><th style='padding:5px;'>RNA</th></tr>\n<tr><td style='padding:5px;'>Sugar</td><td style='padding:5px;'>Deoxyribose</td><td style='padding:5px;'>Ribose</td></tr>\n<tr><td style='padding:5px;'>Unique base</td><td style='padding:5px;'>Thymine (T)</td><td style='padding:5px;'>Uracil (U)</td></tr>\n<tr><td style='padding:5px;'>Strands</td><td style='padding:5px;'>Double</td><td style='padding:5px;'>Single</td></tr>\n<tr><td style='padding:5px;'>Location</td><td style='padding:5px;'>Nucleus</td><td style='padding:5px;'>Nucleus + Cytoplasm</td></tr>\n<tr><td style='padding:5px;'>Stability</td><td style='padding:5px;'>More stable</td><td style='padding:5px;'>Less stable</td></tr>\n</table>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "DNA contains deoxyribose and thymine; RNA contains ribose and uracil"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": ["Biochemistry", "Nucleic Acids", "Nucleotides"],
+    "Question": {
+      "content": "NAD⁺ (nicotinamide adenine dinucleotide) is important in metabolism as it functions as:",
+      "type": "OBJ",
+      "options": [
+        "An enzyme",
+        "A coenzyme and electron carrier in oxidation-reduction reactions",
+        "A structural component of cell membranes",
+        "A building block of proteins"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>NAD⁺ — Electron Carrier</h4>\n<p>The answer is <strong>B</strong>. NAD⁺ is a coenzyme derived from niacin (vitamin B3). It accepts electrons and hydrogen (as hydride, H⁻) during oxidation of metabolic substrates, becoming NADH, which then donates electrons to the electron transport chain.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n\\( \\text{NAD}^+ + 2H^+ + 2e^- \\rightarrow \\text{NADH} + H^+ \\)<br><br>\n<strong>Other important electron carriers:</strong><br>\n• <em>FAD/FADH₂</em> — from riboflavin (B2)<br>\n• <em>NADP⁺/NADPH</em> — used in biosynthetic reactions (e.g., fatty acid synthesis)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A coenzyme and electron carrier in oxidation-reduction reactions"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": ["Biochemistry", "Nucleic Acids", "Nucleotides"],
+    "Question": {
+      "content": "Cyclic AMP (cAMP) is derived from ATP and functions as:",
+      "type": "OBJ",
+      "options": [
+        "A structural component of ribosomes",
+        "An intracellular second messenger in hormone signaling",
+        "A coenzyme in oxidation reactions",
+        "A building block of DNA"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>cAMP — Second Messenger</h4>\n<p>The answer is <strong>B</strong>. cAMP (cyclic adenosine monophosphate) is produced from ATP by adenylyl cyclase (activated by G-proteins). It amplifies hormone signals inside the cell by activating Protein Kinase A (PKA).</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>The cAMP signaling cascade:</strong><br>\nHormone (epinephrine) → binds receptor → G-protein activated → Adenylyl cyclase activated → ATP → cAMP → PKA activated → cellular response (e.g., glycogen breakdown)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An intracellular second messenger in hormone signaling"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 10: DNA Structure & Features"
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": ["Biochemistry", "Nucleic Acids", "DNA"],
+    "Question": {
+      "content": "Watson and Crick's model of DNA (1953) proposed that the two DNA strands are:",
+      "type": "OBJ",
+      "options": [
+        "Parallel and identical",
+        "Antiparallel and complementary",
+        "Parallel and complementary",
+        "Antiparallel and identical"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Watson-Crick DNA Model</h4>\n<p>The answer is <strong>Antiparallel and complementary</strong>. One strand runs 5'→3' while the other runs 3'→5' (antiparallel). The bases pair specifically: A with T, G with C (complementary).</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Key features of the Watson-Crick double helix:</strong><br>\n1. Right-handed double helix (B-form)<br>\n2. Two antiparallel, complementary strands<br>\n3. ~10 base pairs per complete turn<br>\n4. Major and minor grooves alternate<br>\n5. Bases are on the inside, sugar-phosphate backbone on the outside<br>\n6. Based on X-ray crystallography by Rosalind Franklin\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Antiparallel and complementary"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": ["Biochemistry", "Nucleic Acids", "DNA"],
+    "Question": {
+      "content": "If one strand of DNA has the sequence 5'-ATCGTA-3', the complementary strand will be:",
+      "type": "OBJ",
+      "options": [
+        "5'-TAGCAT-3'",
+        "3'-TAGCAT-5'",
+        "5'-ATCGTA-3'",
+        "3'-ATCGTA-5'"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Writing the Complementary Strand</h4>\n<p>The answer is <strong>3'-TAGCAT-5'</strong>. The complementary strand must be antiparallel (3'→5') and have matching bases (A↔T, G↔C).</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Step-by-step:</strong><br>\n<pre style='font-size:0.85em; background:var(--transparentBlack); padding:8px; border-radius:4px;'>Original:      5'- A  T  C  G  T  A -3'\nComplement:       |  |  |  |  |  |\nNew strand:    3'- T  A  G  C  A  T -5'</pre>\nThe complement reads 3'-TAGCAT-5' (same as 5'-TACGAT-3' if reversed).\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3'-TAGCAT-5'"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": ["Biochemistry", "Nucleic Acids", "DNA"],
+    "Question": {
+      "content": "According to Chargaff's rules, in a double-stranded DNA molecule with 30% adenine, the percentage of guanine would be:",
+      "type": "OBJ",
+      "options": ["30%", "20%", "40%", "10%"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Chargaff's Rules</h4>\n<p>The answer is <strong>20%</strong>. Chargaff's rules state: %A = %T and %G = %C. All four bases must add up to 100%.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Calculation:</strong><br>\nA = 30% → T = 30% (since A = T)<br>\nA + T = 60%<br>\nRemaining for G + C = 100% − 60% = 40%<br>\nG = C = 20% each<br><br>\n<em>So the answer is G = 20%</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "20%"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "topic": ["Biochemistry", "Nucleic Acids", "DNA"],
+    "Question": {
+      "content": "The three forms of DNA double helix include A-DNA, B-DNA, and Z-DNA. The form found under normal physiological conditions in cells is:",
+      "type": "OBJ",
+      "options": ["A-DNA", "B-DNA", "Z-DNA", "All three equally"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Forms of DNA</h4>\n<p>The answer is <strong>B-DNA</strong>. B-DNA is the right-handed helix described by Watson and Crick, which is the predominant form under physiological (aqueous) conditions.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Three forms comparison:</strong><br>\n• <em>B-DNA</em> — right-handed, ~10 bp/turn, physiological ✅<br>\n• <em>A-DNA</em> — right-handed, shorter/wider, found in dehydrated conditions<br>\n• <em>Z-DNA</em> — left-handed, zigzag backbone, found in regions with alternating GC repeats; may play a role in gene regulation\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "B-DNA"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": ["Biochemistry", "Nucleic Acids", "DNA"],
+    "Question": {
+      "content": "In the DNA double helix, the base pairs are stabilized primarily by:",
+      "type": "OBJ",
+      "options": [
+        "Covalent bonds between bases",
+        "Hydrogen bonds between complementary bases",
+        "Ionic bonds between phosphate groups",
+        "Phosphodiester bonds between bases"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Stabilizing Forces in DNA</h4>\n<p>The answer is <strong>Hydrogen bonds between complementary bases</strong>. A–T pairs share 2 hydrogen bonds; G–C pairs share 3 hydrogen bonds.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Two major stabilizing forces:</strong><br>\n1. <em>Hydrogen bonds</em> between base pairs (A=T and G≡C)<br>\n2. <em>Base stacking interactions</em> — hydrophobic and van der Waals forces between stacked aromatic rings<br><br>\n<em>Don't confuse: Phosphodiester bonds link nucleotides within a strand (backbone). Hydrogen bonds hold the TWO strands together.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydrogen bonds between complementary bases"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 11: RNA — Types & Functions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "topic": ["Biochemistry", "Nucleic Acids", "RNA"],
+    "Question": {
+      "content": "Which type of RNA makes up the structural and catalytic core of ribosomes?",
+      "type": "OBJ",
+      "options": ["mRNA", "tRNA", "rRNA", "snRNA"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>rRNA — Ribosomal RNA</h4>\n<p>The answer is <strong>rRNA</strong>. Ribosomal RNA is the most abundant RNA in the cell (~80%). It makes up the structural scaffold of ribosomes and has catalytic activity — the peptidyl transferase activity that forms peptide bonds is actually carried out by rRNA, making ribosomes a ribozyme.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>RNA type summary:</strong><br>\n• <em>mRNA</em> — carries genetic code from DNA to ribosome<br>\n• <em>tRNA</em> — brings amino acids; reads mRNA codons<br>\n• <em>rRNA</em> — structural and catalytic component of ribosomes ✅<br>\n• <em>snRNA</em> — involved in mRNA splicing in the spliceosome\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "rRNA"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "topic": ["Biochemistry", "Nucleic Acids", "RNA"],
+    "Question": {
+      "content": "The anticodon of tRNA is found in which structural region?",
+      "type": "OBJ",
+      "options": [
+        "The 3' CCA tail",
+        "The T-arm",
+        "The anticodon loop",
+        "The acceptor stem"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>tRNA Structure</h4>\n<p>The answer is <strong>Anticodon loop</strong>. The anticodon is a 3-nucleotide sequence located in the anticodon loop of tRNA. It base-pairs with the complementary codon on mRNA during translation.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Key tRNA features:</strong><br>\n• <em>3' CCA tail (acceptor stem)</em> — where the amino acid attaches<br>\n• <em>Anticodon loop</em> — reads mRNA codon ✅<br>\n• <em>D-arm</em> — interacts with aminoacyl-tRNA synthetase<br>\n• <em>T-arm</em> — helps tRNA bind to the ribosome<br><br>\n<em>tRNA is ~75 nucleotides long and folds into a cloverleaf secondary structure.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The anticodon loop"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "topic": ["Biochemistry", "Nucleic Acids", "RNA"],
+    "Question": {
+      "content": "Which of the following describes heterogeneous nuclear RNA (hnRNA)?",
+      "type": "OBJ",
+      "options": [
+        "Mature, processed mRNA ready for translation",
+        "The primary transcript (pre-mRNA) produced in the nucleus before processing",
+        "A type of ribosomal RNA",
+        "Small RNA involved in chromatin remodeling"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>hnRNA — Pre-mRNA</h4>\n<p>The answer is <strong>B</strong>. hnRNA (heterogeneous nuclear RNA) is the primary RNA transcript, containing both introns and exons. It must be processed (5' cap added, 3' poly-A tail added, introns spliced out) before becoming mature mRNA.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>mRNA maturation steps:</strong><br>\n1. Transcription → hnRNA (pre-mRNA)<br>\n2. 5' capping (7-methylguanosine cap)<br>\n3. 3' polyadenylation (poly-A tail, ~200 A residues)<br>\n4. Splicing: introns removed by spliceosome<br>\n5. Mature mRNA exported to cytoplasm for translation\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The primary transcript (pre-mRNA) produced in the nucleus before processing"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "topic": ["Biochemistry", "Nucleic Acids", "RNA"],
+    "Question": {
+      "content": "Small nuclear RNA (snRNA) is specifically involved in:",
+      "type": "OBJ",
+      "options": [
+        "Translation of mRNA",
+        "Splicing of introns from pre-mRNA",
+        "Carrying amino acids to the ribosome",
+        "Forming the ribosome structure"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>snRNA & The Spliceosome</h4>\n<p>The answer is <strong>Splicing of introns from pre-mRNA</strong>. snRNAs combine with proteins to form snRNPs (small nuclear ribonucleoproteins), which assemble into the spliceosome — the molecular machine that removes introns and joins exons.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Key snRNA types in the spliceosome:</strong><br>\nU1, U2, U4, U5, U6 snRNA — each recognizes specific splice site sequences in pre-mRNA to coordinate precise intron removal.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Splicing of introns from pre-mRNA"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "topic": ["Biochemistry", "Nucleic Acids", "RNA"],
+    "Question": {
+      "content": "The 5' cap added to eukaryotic mRNA during processing consists of:",
+      "type": "OBJ",
+      "options": [
+        "A poly-adenosine tail",
+        "A 7-methylguanosine residue",
+        "A phosphodiester bond",
+        "A poly-uridine sequence"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The 5' Cap</h4>\n<p>The answer is <strong>A 7-methylguanosine residue</strong>. This modified guanosine is added in reverse (5'→5') linkage at the beginning of the mRNA.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Functions of the 5' cap:</strong><br>\n1. Protects mRNA from degradation by 5' exonucleases<br>\n2. Needed for ribosome recognition and initiation of translation<br>\n3. Promotes nuclear export of mature mRNA<br><br>\n<em>Don't confuse the 5' cap with the 3' poly-A tail (which is made of adenosine residues and also protects mRNA).</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A 7-methylguanosine residue"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 12: Amino Acids & Protein Structure"
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": ["Biochemistry", "Proteins", "Amino Acids"],
+    "Question": {
+      "content": "All amino acids share a common structure consisting of:",
+      "type": "OBJ",
+      "options": [
+        "A central carbon with an amino group, carboxyl group, hydrogen, and R group",
+        "A central nitrogen with two carboxyl groups",
+        "A benzene ring with an amino group",
+        "A phosphate group and amino group"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>General Amino Acid Structure</h4>\n<p>The answer is <strong>A</strong>. Every amino acid has a central alpha-carbon (Cα) bonded to four groups. The R group (side chain) is what differs between the 20 standard amino acids.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<pre style='font-size:0.85em; background:var(--transparentBlack); padding:8px; border-radius:4px;'>        NH₂\n         |\nR — Cα — COOH\n         |\n         H</pre>\n<em>At physiological pH (7.4): the –NH₂ is protonated (–NH₃⁺) and –COOH is deprotonated (–COO⁻) → zwitterion form</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A central carbon with an amino group, carboxyl group, hydrogen, and R group"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": ["Biochemistry", "Proteins", "Amino Acids"],
+    "Question": {
+      "content": "Amino acids with nonpolar, hydrophobic R groups are typically found:",
+      "type": "OBJ",
+      "options": [
+        "On the outer surface of water-soluble proteins",
+        "Buried in the interior of globular proteins, away from water",
+        "In the active site of all enzymes",
+        "Only in membrane-spanning helices of integral proteins"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Hydrophobic Effect in Protein Folding</h4>\n<p>The answer is <strong>B</strong>. Nonpolar amino acids (e.g., valine, leucine, isoleucine) avoid water and cluster in the protein core — this hydrophobic effect is one of the main driving forces of protein folding.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Amino acid classification by R group:</strong><br>\n• <em>Nonpolar/hydrophobic</em> — buried in protein core<br>\n• <em>Polar uncharged</em> — surface and active sites<br>\n• <em>Positively charged</em> — Arg, Lys, His (basic)<br>\n• <em>Negatively charged</em> — Asp, Glu (acidic)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Buried in the interior of globular proteins, away from water"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": ["Biochemistry", "Proteins"],
+    "Question": {
+      "content": "The primary structure of a protein refers to:",
+      "type": "OBJ",
+      "options": [
+        "The folding of the polypeptide into alpha helices and beta sheets",
+        "The overall 3D shape of a single polypeptide",
+        "The linear sequence of amino acids joined by peptide bonds",
+        "The arrangement of multiple polypeptide subunits"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Four Levels of Protein Structure</h4>\n<p>The answer is <strong>C</strong>. Primary structure is the most basic level — simply the order of amino acids from N-terminus to C-terminus, determined by the gene sequence.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>All four levels:</strong><br>\n1. <strong>Primary</strong> — amino acid sequence (peptide bonds) ✅<br>\n2. <strong>Secondary</strong> — local folding: α-helix, β-sheet (hydrogen bonds)<br>\n3. <strong>Tertiary</strong> — overall 3D shape of single polypeptide<br>\n4. <strong>Quaternary</strong> — multiple polypeptide subunits together\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The linear sequence of amino acids joined by peptide bonds"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": ["Biochemistry", "Proteins"],
+    "Question": {
+      "content": "The alpha-helix and beta-pleated sheet are examples of which level of protein structure?",
+      "type": "OBJ",
+      "options": ["Primary", "Secondary", "Tertiary", "Quaternary"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Secondary Structure</h4>\n<p>The answer is <strong>Secondary structure</strong>. Both alpha-helices and beta-sheets arise from hydrogen bonding between atoms in the polypeptide backbone (between –NH and C=O groups of different residues).</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Comparison:</strong><br>\n• <em>α-helix</em> — coiled spring shape; hydrogen bonds between residues 4 apart; right-handed<br>\n• <em>β-sheet</em> — flat, pleated arrangement; H-bonds between adjacent chains (parallel or antiparallel)<br><br>\n<em>Both are stabilized ONLY by hydrogen bonds between backbone atoms — NOT R groups.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Secondary"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": ["Biochemistry", "Proteins"],
+    "Question": {
+      "content": "Disulfide bonds (S–S) that stabilize tertiary protein structure form between two residues of:",
+      "type": "OBJ",
+      "options": ["Glutamate", "Cysteine", "Lysine", "Serine"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Disulfide Bonds</h4>\n<p>The answer is <strong>Cysteine</strong>. Two cysteine residues can be oxidized to form a covalent disulfide bond (–S–S–) between their thiol (–SH) groups. This is one of the strongest bonds stabilizing protein 3D structure.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Forces stabilizing tertiary structure:</strong><br>\n1. Hydrophobic interactions (strongest contributor)<br>\n2. Hydrogen bonds<br>\n3. Ionic (electrostatic) interactions<br>\n4. Disulfide bonds (covalent — strongest per bond)<br>\n5. Van der Waals forces\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cysteine"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": ["Biochemistry", "Proteins"],
+    "Question": {
+      "content": "Hemoglobin is a classic example of a protein with quaternary structure. It consists of:",
+      "type": "OBJ",
+      "options": [
+        "One polypeptide chain",
+        "Two identical alpha chains",
+        "Two alpha and two beta subunits (α₂β₂)",
+        "Four identical beta chains"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Hemoglobin — Quaternary Structure</h4>\n<p>The answer is <strong>Two alpha and two beta subunits (α₂β₂)</strong>. Quaternary structure requires at least two polypeptide chains. Hemoglobin has four subunits — a tetramer — each containing a heme group with iron (Fe²⁺) that binds oxygen.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Compare:</strong><br>\n• <em>Myoglobin</em> — single chain (no quaternary structure) — stores O₂ in muscle<br>\n• <em>Hemoglobin</em> — tetramer α₂β₂ (has quaternary structure) — transports O₂ in blood<br><br>\n<em>Cooperative binding in hemoglobin (sigmoidal curve) vs myoglobin (hyperbolic) arises directly from its quaternary structure.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two alpha and two beta subunits (α₂β₂)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": ["Biochemistry", "Proteins"],
+    "Question": {
+      "content": "Denaturation of a protein involves:",
+      "type": "OBJ",
+      "options": [
+        "Hydrolysis of peptide bonds",
+        "Disruption of secondary, tertiary, and quaternary structure without breaking peptide bonds",
+        "Synthesis of new proteins",
+        "Phosphorylation of amino acid residues"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Protein Denaturation</h4>\n<p>The answer is <strong>B</strong>. Denaturation unfolds a protein by disrupting non-covalent interactions (hydrogen bonds, hydrophobic interactions, ionic bonds), but the primary structure (peptide bonds) remains intact.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Causes of denaturation:</strong><br>\n• Heat (disrupts hydrogen bonds)<br>\n• Extreme pH (disrupts ionic interactions)<br>\n• Urea or guanidinium chloride (unfold the chain)<br>\n• Detergents (disrupt hydrophobic core)<br><br>\n<em>Denaturation is often irreversible. Renaturation (refolding) can occur if the denaturing agent is gently removed.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Disruption of secondary, tertiary, and quaternary structure without breaking peptide bonds"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section 13: Enzymes & Enzyme Inhibition"
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": ["Biochemistry", "Enzymes"],
+    "Question": {
+      "content": "According to the induced fit model of enzyme action, when a substrate enters the active site:",
+      "type": "OBJ",
+      "options": [
+        "The enzyme is permanently destroyed",
+        "The enzyme remains rigid and unchanged",
+        "The enzyme undergoes a conformational change to better fit the substrate",
+        "The substrate is rejected if it does not match exactly"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Induced Fit Model (Koshland, 1958)</h4>\n<p>The answer is <strong>C</strong>. In the induced fit model, the enzyme is flexible and its active site reshapes itself around the substrate upon binding — like a hand fitting into a glove.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Two models comparison:</strong><br>\n• <em>Lock-and-key (Fischer, 1894)</em> — rigid active site; substrate fits exactly like a key into a lock<br>\n• <em>Induced fit (Koshland, 1958)</em> — flexible active site; enzyme changes shape upon substrate binding ✅<br><br>\n<em>Modern evidence supports induced fit as the more accurate model.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The enzyme undergoes a conformational change to better fit the substrate"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": ["Biochemistry", "Enzymes"],
+    "Question": {
+      "content": "Enzymes are classified by the International Union of Biochemistry into six classes. Which class catalyzes oxidation-reduction reactions?",
+      "type": "OBJ",
+      "options": ["Transferases", "Hydrolases", "Oxidoreductases", "Isomerases"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Enzyme Classification (EC Numbers)</h4>\n<p>The answer is <strong>Oxidoreductases</strong>. They catalyze electron transfer reactions (oxidation-reduction).</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>The 6 enzyme classes:</strong><br>\n1. <em>Oxidoreductases</em> — redox reactions (e.g., dehydrogenases, oxidases) ✅<br>\n2. <em>Transferases</em> — transfer functional groups (e.g., kinases, transaminases)<br>\n3. <em>Hydrolases</em> — hydrolysis reactions (e.g., lipases, proteases)<br>\n4. <em>Lyases</em> — break bonds without water or redox (e.g., decarboxylases)<br>\n5. <em>Isomerases</em> — rearrange atoms within a molecule<br>\n6. <em>Ligases</em> — join molecules using ATP (e.g., DNA ligase)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oxidoreductases"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": ["Biochemistry", "Enzymes", "Enzyme Kinetics"],
+    "Question": {
+      "content": "On a Michaelis-Menten curve (reaction rate vs substrate concentration), Vmax is the point where:",
+      "type": "OBJ",
+      "options": [
+        "The reaction rate is zero",
+        "All enzyme active sites are saturated with substrate",
+        "Km equals zero",
+        "The substrate concentration is at its lowest"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Vmax — Maximum Velocity</h4>\n<p>The answer is <strong>B</strong>. Vmax is the theoretical maximum reaction rate, reached when ALL enzyme molecules have their active sites occupied by substrate (enzyme is fully saturated). Adding more substrate beyond this point does not increase the rate.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Michaelis-Menten equation:</strong><br>\n\\( V = \\frac{V_{max} [S]}{K_m + [S]} \\)<br><br>\n• At [S] very low → V ≈ (Vmax/Km)[S] (linear)<br>\n• At [S] = Km → V = Vmax/2<br>\n• At [S] >> Km → V ≈ Vmax (plateau)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All enzyme active sites are saturated with substrate"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 71",
+    "topic": ["Biochemistry", "Enzymes", "Enzyme Inhibition"],
+    "Question": {
+      "content": "Non-competitive inhibition differs from competitive inhibition in that the inhibitor:",
+      "type": "OBJ",
+      "options": [
+        "Binds to the active site and directly blocks substrate binding",
+        "Increases the Km without affecting Vmax",
+        "Binds to an allosteric site and reduces Vmax without changing Km",
+        "Can be overcome by increasing substrate concentration"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Non-Competitive Inhibition</h4>\n<p>The answer is <strong>C</strong>. A non-competitive inhibitor binds at an allosteric site (not the active site). This changes the enzyme's shape, reducing its catalytic efficiency (lower Vmax). Since it doesn't compete for the active site, substrate can still bind — so Km is unchanged.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<table style='width:100%; border-collapse:collapse; font-size:0.85em;'>\n<tr style='background: var(--strongColor); color: white;'><th style='padding:4px;'>Feature</th><th style='padding:4px;'>Competitive</th><th style='padding:4px;'>Non-competitive</th></tr>\n<tr><td style='padding:4px;'>Binds</td><td style='padding:4px;'>Active site</td><td style='padding:4px;'>Allosteric site</td></tr>\n<tr><td style='padding:4px;'>Km</td><td style='padding:4px;'>Increases</td><td style='padding:4px;'>No change</td></tr>\n<tr><td style='padding:4px;'>Vmax</td><td style='padding:4px;'>No change</td><td style='padding:4px;'>Decreases</td></tr>\n<tr><td style='padding:4px;'>Overcome by ↑[S]?</td><td style='padding:4px;'>Yes</td><td style='padding:4px;'>No</td></tr>\n</table>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Binds to an allosteric site and reduces Vmax without changing Km"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 72",
+    "topic": ["Biochemistry", "Enzymes", "Enzyme Inhibition"],
+    "Question": {
+      "content": "An example of competitive enzyme inhibition with clinical relevance is the use of:",
+      "type": "OBJ",
+      "options": [
+        "Insulin to lower blood glucose",
+        "Statins to inhibit HMG-CoA reductase in cholesterol synthesis",
+        "Aspirin to activate cyclooxygenase",
+        "Penicillin to activate bacterial cell wall synthesis"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Clinical Example of Competitive Inhibition</h4>\n<p>The answer is <strong>B</strong>. Statins (e.g., lovastatin, simvastatin) mimic the natural substrate of HMG-CoA reductase — the rate-limiting enzyme in cholesterol biosynthesis — and competitively inhibit it, lowering blood cholesterol.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Other clinical competitive inhibitors:</strong><br>\n• <em>Methotrexate</em> — inhibits dihydrofolate reductase (cancer treatment)<br>\n• <em>Sulfonamides</em> — inhibit bacterial PABA-using enzyme (antibiotics)<br>\n• <em>ACE inhibitors</em> — inhibit angiotensin-converting enzyme (blood pressure)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Statins to inhibit HMG-CoA reductase in cholesterol synthesis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 73",
+    "topic": ["Biochemistry", "Enzymes"],
+    "Question": {
+      "content": "A coenzyme is best described as:",
+      "type": "OBJ",
+      "options": [
+        "A protein that regulates enzyme activity",
+        "A non-protein organic molecule that is required for enzyme activity",
+        "An inorganic metal ion that activates enzymes",
+        "A lipid that assists membrane-bound enzymes"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Coenzymes vs Cofactors</h4>\n<p>The answer is <strong>B</strong>. Coenzymes are non-protein organic molecules that bind temporarily (or permanently as prosthetic groups) to enzymes to help them function.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Terminology breakdown:</strong><br>\n• <em>Cofactor</em> — general term: anything non-protein needed by enzyme<br>\n• <em>Coenzyme</em> — organic cofactor (e.g., NAD⁺, FAD, CoA, Pyridoxal phosphate)<br>\n• <em>Metal ion cofactor</em> — inorganic ions (e.g., Zn²⁺ in carbonic anhydrase, Fe²⁺ in hemoglobin)<br>\n• <em>Prosthetic group</em> — tightly bound cofactor (permanently attached)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A non-protein organic molecule that is required for enzyme activity"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 74",
+    "topic": ["Biochemistry", "Enzymes"],
+    "Question": {
+      "content": "Irreversible enzyme inhibition, as seen with nerve agents (organophosphates) and aspirin, involves:",
+      "type": "OBJ",
+      "options": [
+        "Non-covalent binding to the active site",
+        "Covalent modification of a key residue in the active site",
+        "Binding to an allosteric site",
+        "Competing with the substrate for the active site"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Irreversible Inhibition</h4>\n<p>The answer is <strong>B</strong>. Irreversible inhibitors form stable covalent bonds with amino acid residues in the active site, permanently inactivating the enzyme.</p>\n<div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>⚠️ Important examples:</strong><br>\n• <em>Organophosphates (nerve agents, e.g., sarin)</em> — covalently modify serine in acetylcholinesterase → acetylcholine accumulates → continuous nerve stimulation → death<br>\n• <em>Aspirin</em> — acetylates serine in cyclooxygenase (COX) → permanently inhibits prostaglandin synthesis → anti-inflammatory, anti-clotting effect\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Covalent modification of a key residue in the active site"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 75",
+    "topic": ["Biochemistry", "Enzymes"],
+    "Question": {
+      "content": "Allosteric regulation of an enzyme occurs when a regulatory molecule binds:",
+      "type": "OBJ",
+      "options": [
+        "At the active site, directly blocking substrate",
+        "At a site other than the active site, changing enzyme conformation and activity",
+        "Outside the cell, signaling DNA to stop transcription",
+        "To the substrate, preventing it from entering the active site"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Allosteric Regulation</h4>\n<p>The answer is <strong>B</strong>. Allosteric regulators (activators or inhibitors) bind at a non-catalytic allosteric site, triggering a conformational change that either enhances or reduces catalytic activity.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Allosteric regulation importance:</strong><br>\n• Fine-tunes metabolic pathways in real time<br>\n• Often involves feedback inhibition — the end product of a pathway inhibits the first enzyme in that pathway (prevents overproduction)<br>\n• Example: ATP inhibits phosphofructokinase-1 in glycolysis when energy is high\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "At a site other than the active site, changing enzyme conformation and activity"
+    }
+  }
+]
+
+  
