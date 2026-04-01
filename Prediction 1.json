@@ -1,0 +1,760 @@
+[
+{
+  "type": "pageInfo",
+  "kind": "subjective and objective",
+  "course_title": "General Biochemistry II",
+  "code": "BCH 214.1",
+  "session": "Prediction 1",
+  "topics": ["Biology", "Cell Biology", "Cell Theory", "Cell Organelles", "Membrane Structure", "Lipids", "Membrane Transport", "Biochemistry", "Fatty Acids", "Nutrition", "Cholesterol", "Bioenergetics", "ATP", "Thermodynamics", "Nucleic Acids", "DNA", "RNA", "Purines", "Pyrimidines", "Proteins", "Enzymes", "Enzyme Inhibition", "Enzyme Kinetics"],
+  "time": "120"
+},
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Biology", "Cell Biology"],
+    "Question": {
+      "content": "The basic structural and functional unit of life is:",
+      "type": "OBJ",
+      "options": ["Tissue", "Organ", "Cell", "Atom"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Basic Unit of Life</h4>\n<p>The answer is <strong>Cell</strong>. A cell is the smallest unit capable of performing all life functions — growth, metabolism, reproduction, and response to stimuli.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Hierarchy of life (smallest → largest):</strong><br>\nCell → Tissue → Organ → Organ System → Organism<br><br>\n<em>Atoms</em> are not alive. <em>Tissues</em> and <em>organs</em> are made of many cells.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cell"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Biology", "Cell Biology", "Cell Theory"],
+    "Question": {
+      "content": "The scientist who stated that cells arise from pre-existing cells is:",
+      "type": "OBJ",
+      "options": ["Hooke", "Schwann", "Virchow", "Leeuwenhoek"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Cell Theory — Who Said What?</h4>\n<p>The answer is <strong>Virchow</strong>. Rudolf Virchow (1858) proposed <em>\"Omnis cellula e cellula\"</em> — every cell comes from a pre-existing cell.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Quick scientist map:</strong><br>\n• <strong>Hooke</strong> — first observed cells (cork, 1665)<br>\n• <strong>Schwann & Schleiden</strong> — all organisms are made of cells<br>\n• <strong>Virchow</strong> — cells come from pre-existing cells ✅<br>\n• <strong>Leeuwenhoek</strong> — first to observe living microorganisms\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Virchow"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Biology", "Cell Biology", "Cell Organelles"],
+    "Question": {
+      "content": "Which organelle is known as the powerhouse of the cell?",
+      "type": "OBJ",
+      "options": ["Nucleus", "Ribosome", "Mitochondrion", "Lysosome"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Powerhouse of the Cell</h4>\n<p>The answer is <strong>Mitochondrion</strong>. It produces ATP (energy) through cellular respiration — specifically via the Krebs cycle and oxidative phosphorylation in its inner membrane.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Think of it this way:</strong><br>\nJust like a power station generates electricity for a city, mitochondria generate ATP for the cell's activities.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mitochondrion"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Biology", "Cell Biology", "Cell Organelles"],
+    "Question": {
+      "content": "The organelle responsible for protein modification and packaging is:",
+      "type": "OBJ",
+      "options": ["Endoplasmic reticulum", "Golgi apparatus", "Lysosome", "Nucleus"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Cell's Post Office</h4>\n<p>The answer is <strong>Golgi apparatus</strong>. It receives proteins from the rough ER, modifies them (e.g., adds sugar chains), packages them into vesicles, and ships them to their destination — inside or outside the cell.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Don't confuse:</strong><br>\n• <em>Rough ER</em> — makes proteins<br>\n• <em>Golgi apparatus</em> — modifies &amp; packages proteins ✅<br>\n• <em>Lysosome</em> — digests waste\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Golgi apparatus"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Biology", "Cell Biology", "Cell Organelles"],
+    "Question": {
+      "content": "Which organelle contains hydrolytic enzymes?",
+      "type": "OBJ",
+      "options": ["Ribosome", "Lysosome", "Mitochondrion", "Golgi body"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Cell's Recycling Bin</h4>\n<p>The answer is <strong>Lysosome</strong>. Lysosomes contain over 50 hydrolytic (digestive) enzymes that break down worn-out organelles, bacteria, and macromolecules.</p>\n<div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>⚠️ Key fact:</strong> If a lysosome ruptures inside the cell, the enzymes would digest the cell itself — this is called <em>autolysis</em>.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lysosome"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "BCH 214",
+    "Subheading": "Section B: Membrane & Transport"
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Biology", "Cell Biology", "Membrane Structure"],
+    "Question": {
+      "content": "The accepted model of membrane structure is:",
+      "type": "OBJ",
+      "options": ["Unit membrane model", "Fluid mosaic model", "Sandwich model", "Lipid shell model"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Fluid Mosaic Model</h4>\n<p>The answer is <strong>Fluid mosaic model</strong>, proposed by Singer and Nicolson in 1972. It describes the membrane as a fluid phospholipid bilayer with proteins embedded in or on it — like tiles (mosaic) floating in water (fluid).</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Key features:</strong><br>\n• <em>Fluid</em> — lipids and proteins can move laterally<br>\n• <em>Mosaic</em> — proteins scattered throughout the bilayer<br>\n• Replaced the older \"sandwich model\" by Davson &amp; Danielli\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fluid mosaic model"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Biology", "Cell Biology", "Membrane Structure"],
+    "Question": {
+      "content": "Biological membranes are mainly composed of:",
+      "type": "OBJ",
+      "options": ["Proteins only", "Lipids only", "Lipids, proteins and carbohydrates", "Carbohydrates only"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Membrane Composition</h4>\n<p>The answer is <strong>Lipids, proteins and carbohydrates</strong>.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Component roles:</strong><br>\n• <em>Phospholipids</em> — form the bilayer backbone<br>\n• <em>Proteins</em> — channels, receptors, enzymes (~50% by mass)<br>\n• <em>Carbohydrates</em> — attached to lipids/proteins on outer surface; involved in cell recognition\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lipids, proteins and carbohydrates"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Biology", "Cell Biology", "Membrane Structure", "Lipids"],
+    "Question": {
+      "content": "The major lipid component of membranes is:",
+      "type": "OBJ",
+      "options": ["Triglycerides", "Phospholipids", "Steroids", "Glycogen"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Major Lipid of Membranes</h4>\n<p>The answer is <strong>Phospholipids</strong>. They have a hydrophilic (water-loving) phosphate head and two hydrophobic (water-fearing) fatty acid tails, which causes them to spontaneously form a bilayer in water.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Remember:</strong> Triglycerides are for fat storage, not membrane building. Glycogen is a carbohydrate. Cholesterol (a steroid) is also present but is secondary.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phospholipids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Biology", "Cell Biology", "Membrane Structure", "Lipids"],
+    "Question": {
+      "content": "Phospholipids are described as:",
+      "type": "OBJ",
+      "options": ["Hydrophobic", "Hydrophilic", "Amphipathic", "Neutral"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Amphipathic Nature of Phospholipids</h4>\n<p>The answer is <strong>Amphipathic</strong>. The prefix <em>amphi</em> means \"both\" — phospholipids have both a hydrophilic (polar phosphate head) and a hydrophobic (nonpolar fatty acid tails) region.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>This property is what makes bilayers possible:</strong><br>\nIn water, the tails hide from water (face inward) while heads face the water — forming a stable two-layer sheet.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amphipathic"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Biology", "Cell Biology", "Membrane Transport"],
+    "Question": {
+      "content": "Passive transport involves movement:",
+      "type": "OBJ",
+      "options": ["Against gradient with ATP", "Along gradient without ATP", "Against gradient without ATP", "Randomly"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Passive Transport</h4>\n<p>The answer is <strong>Along gradient without ATP</strong>. Passive transport moves substances from high to low concentration (down the gradient) using no energy.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Analogy:</strong><br>\nLike a ball rolling downhill — no push needed. The concentration difference itself drives movement.<br><br>\n<em>Examples:</em> Simple diffusion, osmosis, facilitated diffusion.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Along gradient without ATP"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Biology", "Cell Biology", "Membrane Transport"],
+    "Question": {
+      "content": "Active transport:",
+      "type": "OBJ",
+      "options": ["Does not require energy", "Moves substances down gradient", "Requires ATP", "Occurs only in plants"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Active Transport</h4>\n<p>The answer is <strong>Requires ATP</strong>. Active transport moves substances against their concentration gradient (from low to high) — this is an uphill battle that needs energy.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Classic example:</strong> The Sodium-Potassium pump (Na⁺/K⁺-ATPase) uses ATP to pump ions against their gradients in nerve and muscle cells.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Requires ATP"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Biology", "Cell Biology", "Membrane Transport"],
+    "Question": {
+      "content": "Which of the following is NOT a type of passive transport?",
+      "type": "OBJ",
+      "options": ["Diffusion", "Osmosis", "Facilitated diffusion", "Endocytosis"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Types of Transport</h4>\n<p>The answer is <strong>Endocytosis</strong>. Endocytosis is an active process where the cell uses energy to engulf large molecules or particles by wrapping its membrane around them.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Passive transport types:</strong><br>\n• <em>Diffusion</em> — molecules spread from high to low concentration<br>\n• <em>Osmosis</em> — water movement across a membrane<br>\n• <em>Facilitated diffusion</em> — uses protein channels, no ATP<br><br>\n<em>Endocytosis</em> — requires energy ❌ (not passive)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Endocytosis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Biology", "Cell Biology", "Membrane Transport"],
+    "Question": {
+      "content": "The sodium-potassium pump moves:",
+      "type": "OBJ",
+      "options": ["2 Na⁺ in, 3 K⁺ out", "3 Na⁺ out, 2 K⁺ in", "3 Na⁺ in, 2 K⁺ out", "Equal ions both ways"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Na⁺/K⁺ Pump Stoichiometry</h4>\n<p>The answer is <strong>3 Na⁺ out, 2 K⁺ in</strong>. For every ATP hydrolyzed, the pump ejects 3 sodium ions out of the cell and brings 2 potassium ions in.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Memory trick: \"3 OUT, 2 IN\"</strong><br>\n3 Na⁺ exit → 2 K⁺ enter → 1 ATP used<br><br>\nThis unequal exchange creates the membrane potential needed for nerve and muscle function.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3 Na⁺ out, 2 K⁺ in"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Biology", "Cell Biology", "Membrane Transport"],
+    "Question": {
+      "content": "Movement of water across a membrane is called:",
+      "type": "OBJ",
+      "options": ["Diffusion", "Osmosis", "Filtration", "Transport"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Osmosis</h4>\n<p>The answer is <strong>Osmosis</strong>. Osmosis is the specific term for the passive movement of water molecules across a selectively permeable membrane, from an area of low solute concentration to high solute concentration.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Key distinction:</strong><br>\n<em>Diffusion</em> = movement of any substance (solute or solvent) from high to low concentration.<br>\n<em>Osmosis</em> = diffusion, but specifically for <strong>water</strong> through a membrane.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Osmosis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Biology", "Cell Biology", "Membrane Transport"],
+    "Question": {
+      "content": "Symport transport involves:",
+      "type": "OBJ",
+      "options": ["Opposite movement", "Same direction movement", "No movement", "Random movement"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Cotransport: Symport vs Antiport</h4>\n<p>The answer is <strong>Same direction movement</strong>. In symport (a type of cotransport), two substances move across the membrane in the <em>same direction</em> simultaneously.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Comparison:</strong><br>\n• <em>Symport</em> — both substances move in same direction (e.g., Na⁺-glucose cotransporter)<br>\n• <em>Antiport</em> — substances move in opposite directions (e.g., Na⁺/K⁺ pump)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Same direction movement"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "BCH 214",
+    "Subheading": "Section C: Lipids & Fatty Acids"
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Biochemistry", "Lipids", "Fatty Acids"],
+    "Question": {
+      "content": "Saturated fatty acids:",
+      "type": "OBJ",
+      "options": ["Have double bonds", "Have no double bonds", "Are always liquid", "Are polar"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Saturated Fatty Acids</h4>\n<p>The answer is <strong>Have no double bonds</strong>. \"Saturated\" means the carbon chain is fully saturated with hydrogen atoms — no room left for double bonds.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Quick comparison:</strong><br>\n• <em>Saturated</em> — no double bonds, solid at room temp (e.g., butter, lard)<br>\n• <em>Unsaturated</em> — has double bonds, liquid at room temp (e.g., vegetable oil)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Have no double bonds"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Biochemistry", "Lipids", "Fatty Acids"],
+    "Question": {
+      "content": "Unsaturated fatty acids:",
+      "type": "OBJ",
+      "options": ["Have no double bonds", "Are solid", "Have one or more double bonds", "Are non-biological"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Unsaturated Fatty Acids</h4>\n<p>The answer is <strong>Have one or more double bonds</strong>. The carbon-carbon double bonds create kinks in the chain, preventing tight packing — which is why unsaturated fats are liquid (oils) at room temperature.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Types:</strong><br>\n• <em>Monounsaturated</em> — one double bond (e.g., oleic acid in olive oil)<br>\n• <em>Polyunsaturated</em> — two or more double bonds (e.g., omega-3, omega-6)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Have one or more double bonds"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Biochemistry", "Lipids", "Fatty Acids", "Nutrition"],
+    "Question": {
+      "content": "Essential fatty acids are:",
+      "type": "OBJ",
+      "options": ["Synthesized in body", "Not required", "Must be obtained from diet", "Only found in animals"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Essential Fatty Acids</h4>\n<p>The answer is <strong>Must be obtained from diet</strong>. \"Essential\" in biochemistry means the body cannot synthesize them, so they must come from food.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Examples of essential fatty acids:</strong><br>\n• Linoleic acid (omega-6) — found in plant oils<br>\n• Alpha-linolenic acid (omega-3) — found in flaxseeds, fish<br><br>\nThey are vital for cell membrane structure and hormone-like signaling molecules.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Must be obtained from diet"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Biochemistry", "Lipids", "Cholesterol"],
+    "Question": {
+      "content": "Cholesterol functions to:",
+      "type": "OBJ",
+      "options": ["Destroy membranes", "Increase rigidity and stability", "Remove proteins", "Store glucose"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Role of Cholesterol in Membranes</h4>\n<p>The answer is <strong>Increase rigidity and stability</strong>. Cholesterol inserts between phospholipids in the membrane, reducing fluidity and preventing the membrane from becoming too rigid at low temperatures or too fluid at high temperatures — acting as a \"fluidity buffer.\"</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Also note:</strong> Cholesterol is a precursor for steroid hormones (cortisol, estrogen, testosterone) and bile acids.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increase rigidity and stability"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Biochemistry", "Lipids", "Cholesterol"],
+    "Question": {
+      "content": "The \"bad cholesterol\" is:",
+      "type": "OBJ",
+      "options": ["HDL", "LDL", "VLDL", "Chylomicron"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>LDL — The \"Bad\" Cholesterol</h4>\n<p>The answer is <strong>LDL (Low-Density Lipoprotein)</strong>. LDL carries cholesterol from the liver to body tissues, but excess LDL deposits cholesterol in artery walls, forming plaques that can lead to heart disease.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Memory trick — \"L for Lethal\":</strong><br>\n• <em>LDL</em> — delivers cholesterol to arteries (bad ❌)<br>\n• <em>HDL</em> — collects cholesterol and returns it to liver (good ✅)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "LDL"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Biochemistry", "Lipids", "Cholesterol"],
+    "Question": {
+      "content": "The \"good cholesterol\" is:",
+      "type": "OBJ",
+      "options": ["LDL", "HDL", "VLDL", "Triglyceride"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>HDL — The \"Good\" Cholesterol</h4>\n<p>The answer is <strong>HDL (High-Density Lipoprotein)</strong>. HDL scavenges excess cholesterol from artery walls and transports it back to the liver for excretion — a process called reverse cholesterol transport.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Memory trick — \"H for Healthy\":</strong><br>\nHigh HDL = lower risk of heart disease.<br>\nHigh LDL = higher risk of heart disease.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "HDL"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "BCH 214",
+    "Subheading": "Section D: Bioenergetics"
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Biochemistry", "Bioenergetics", "ATP"],
+    "Question": {
+      "content": "The energy currency of the cell is:",
+      "type": "OBJ",
+      "options": ["ADP", "ATP", "AMP", "NAD"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>ATP — Energy Currency of Life</h4>\n<p>The answer is <strong>ATP (Adenosine Triphosphate)</strong>. ATP stores energy in its high-energy phosphate bonds. When these bonds are broken (hydrolysis), energy is released and used to power cellular work.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n\\( \\text{ATP} \\rightarrow \\text{ADP} + P_i + \\text{Energy} \\)<br><br>\n<em>ADP</em> = Adenosine diphosphate (spent form)<br>\n<em>AMP</em> = Adenosine monophosphate (further spent)<br>\n<em>NAD</em> = electron carrier, not energy currency\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ATP"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Biochemistry", "Bioenergetics", "ATP"],
+    "Question": {
+      "content": "ATP consists of:",
+      "type": "OBJ",
+      "options": ["Adenine + glucose", "Adenine + ribose + phosphate", "Ribose + lipid", "Protein + phosphate"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Structure of ATP</h4>\n<p>The answer is <strong>Adenine + ribose + phosphate</strong>. ATP is a nucleotide made of three parts joined together.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>ATP = Adenosine + 3 Phosphate groups</strong><br><br>\n1. <em>Adenine</em> — the nitrogenous base<br>\n2. <em>Ribose</em> — the 5-carbon sugar<br>\n3. <em>Three phosphate groups</em> — the energy-storing tail<br><br>\n(Adenine + Ribose = Adenosine)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adenine + ribose + phosphate"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Biochemistry", "Bioenergetics", "Thermodynamics"],
+    "Question": {
+      "content": "The first law of thermodynamics states:",
+      "type": "OBJ",
+      "options": ["Energy is destroyed", "Energy is created", "Energy is conserved", "Energy is useless"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>First Law of Thermodynamics</h4>\n<p>The answer is <strong>Energy is conserved</strong>. The first law states that energy cannot be created or destroyed — it can only be transformed from one form to another.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Laws summary:</strong><br>\n• <em>1st Law</em> — Energy is conserved (total energy constant)<br>\n• <em>2nd Law</em> — Entropy (disorder) of the universe always increases\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Energy is conserved"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Biochemistry", "Bioenergetics", "Thermodynamics"],
+    "Question": {
+      "content": "A negative ΔG value means:",
+      "type": "OBJ",
+      "options": ["Reaction is non-spontaneous", "Reaction is spontaneous", "Reaction stops", "No energy"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Gibbs Free Energy (ΔG)</h4>\n<p>The answer is <strong>Reaction is spontaneous</strong>. A negative ΔG (exergonic reaction) means the products have less free energy than the reactants — energy is released, and the reaction proceeds spontaneously.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n\\( \\Delta G < 0 \\) → Exergonic → Spontaneous ✅<br>\n\\( \\Delta G > 0 \\) → Endergonic → Non-spontaneous ❌<br>\n\\( \\Delta G = 0 \\) → Equilibrium<br><br>\n<em>Spontaneous does NOT mean fast — it just means thermodynamically favorable.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reaction is spontaneous"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Biochemistry", "Bioenergetics", "ATP"],
+    "Question": {
+      "content": "High-energy phosphate compounds:",
+      "type": "OBJ",
+      "options": ["Do not release energy", "Release large energy on hydrolysis", "Are proteins", "Are lipids"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>High-Energy Phosphate Compounds</h4>\n<p>The answer is <strong>Release large energy on hydrolysis</strong>. These compounds have a high negative ΔG of hydrolysis, meaning breaking their phosphate bonds releases a large amount of free energy.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Examples:</strong><br>\n• ATP → ADP + Pᵢ releases ~30.5 kJ/mol<br>\n• Creatine phosphate<br>\n• Phosphoenolpyruvate (PEP)<br><br>\n<em>They are NOT proteins or lipids — they are nucleotide derivatives.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Release large energy on hydrolysis"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "BCH 214",
+    "Subheading": "Section E: Nucleic Acids"
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Biochemistry", "Nucleic Acids", "DNA"],
+    "Question": {
+      "content": "DNA contains:",
+      "type": "OBJ",
+      "options": ["Ribose", "Deoxyribose", "Glucose", "Lactose"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Sugar in DNA vs RNA</h4>\n<p>The answer is <strong>Deoxyribose</strong>. The \"D\" in DNA stands for deoxyribose — a ribose sugar that has lost one oxygen atom at the 2' carbon position.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Key difference:</strong><br>\n• <em>DNA</em> — deoxyribose sugar, more stable<br>\n• <em>RNA</em> — ribose sugar, less stable<br><br>\nThe missing -OH group makes DNA more chemically stable, ideal for long-term genetic storage.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Deoxyribose"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Biochemistry", "Nucleic Acids", "RNA"],
+    "Question": {
+      "content": "RNA contains:",
+      "type": "OBJ",
+      "options": ["Thymine", "Uracil", "Adenine only", "Cytosine only"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>RNA vs DNA Bases</h4>\n<p>The answer is <strong>Uracil</strong>. RNA uses Uracil (U) where DNA uses Thymine (T). Both pair with Adenine, but Uracil lacks the methyl group that Thymine has.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Bases comparison:</strong><br>\n• DNA: A, T, G, C<br>\n• RNA: A, <strong>U</strong>, G, C<br><br>\n<em>Thymine is exclusive to DNA; Uracil is exclusive to RNA.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uracil"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Biochemistry", "Nucleic Acids", "DNA"],
+    "Question": {
+      "content": "Base pairing in DNA is:",
+      "type": "OBJ",
+      "options": ["A-G", "A-T and G-C", "T-G", "A-C"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Chargaff's Base Pairing Rules</h4>\n<p>The answer is <strong>A-T and G-C</strong>. These are the complementary base pairs that hold the two strands of DNA together via hydrogen bonds.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Hydrogen bonds:</strong><br>\n• A–T: 2 hydrogen bonds<br>\n• G–C: 3 hydrogen bonds (more stable)<br><br>\n<em>In RNA: A pairs with U (instead of T)</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A-T and G-C"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Biochemistry", "Nucleic Acids", "Purines"],
+    "Question": {
+      "content": "Purines include:",
+      "type": "OBJ",
+      "options": ["Cytosine and thymine", "Adenine and guanine", "Uracil and thymine", "Only adenine"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Purines vs Pyrimidines</h4>\n<p>The answer is <strong>Adenine and guanine</strong>. Purines are the larger nitrogenous bases with a double-ring structure (a pyrimidine ring fused to an imidazole ring).</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Memory trick — \"PuRine = PuRe As Gold\":</strong><br>\n• <em>Purines</em> (double ring): <strong>A</strong>denine, <strong>G</strong>uanine → \"AG\"<br>\n• <em>Pyrimidines</em> (single ring): <strong>C</strong>ytosine, <strong>T</strong>hymine, <strong>U</strong>racil → \"CUT\"\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adenine and guanine"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": ["Biochemistry", "Nucleic Acids", "Pyrimidines"],
+    "Question": {
+      "content": "Pyrimidines include:",
+      "type": "OBJ",
+      "options": ["Adenine and guanine", "Cytosine and thymine", "Only guanine", "Only adenine"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Pyrimidines</h4>\n<p>The answer is <strong>Cytosine and thymine</strong>. Pyrimidines have a single 6-membered ring structure and are smaller than purines.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Pyrimidines in DNA:</strong> Cytosine (C) and Thymine (T)<br>\n<strong>Pyrimidines in RNA:</strong> Cytosine (C) and Uracil (U)<br><br>\n<em>\"CUT\" the PYrimidines: C, U, T</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cytosine and thymine"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": ["Biochemistry", "Nucleic Acids", "DNA"],
+    "Question": {
+      "content": "The bond linking nucleotides is:",
+      "type": "OBJ",
+      "options": ["Peptide bond", "Hydrogen bond", "Phosphodiester bond", "Ionic bond"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Phosphodiester Bond</h4>\n<p>The answer is <strong>Phosphodiester bond</strong>. This covalent bond forms the backbone of the DNA/RNA strand by linking the 3' carbon of one sugar to the 5' carbon of the next sugar via a phosphate group.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Don't confuse:</strong><br>\n• <em>Phosphodiester bond</em> — joins nucleotides (backbone) ✅<br>\n• <em>Hydrogen bond</em> — joins complementary base pairs between strands<br>\n• <em>Peptide bond</em> — joins amino acids in proteins\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phosphodiester bond"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": ["Biochemistry", "Nucleic Acids", "RNA"],
+    "Question": {
+      "content": "The function of mRNA is:",
+      "type": "OBJ",
+      "options": ["Store DNA", "Carry genetic message", "Build lipids", "Destroy protein"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Role of mRNA</h4>\n<p>The answer is <strong>Carry genetic message</strong>. mRNA (messenger RNA) is transcribed from DNA in the nucleus and carries the genetic instructions to the ribosome for protein synthesis.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>The central dogma:</strong><br>\nDNA → <em>mRNA</em> → Protein<br><br>\n• <em>mRNA</em> — carries the code (messenger) ✅<br>\n• <em>tRNA</em> — delivers amino acids<br>\n• <em>rRNA</em> — structural part of ribosomes\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carry genetic message"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": ["Biochemistry", "Nucleic Acids", "RNA"],
+    "Question": {
+      "content": "The function of tRNA is:",
+      "type": "OBJ",
+      "options": ["Carry amino acids", "Store DNA", "Break proteins", "Carry glucose"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Role of tRNA</h4>\n<p>The answer is <strong>Carry amino acids</strong>. tRNA (transfer RNA) acts as an adapter molecule during translation — it reads codons on the mRNA and brings the corresponding amino acid to the ribosome.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Structure highlight:</strong><br>\n• tRNA has an <em>anticodon loop</em> that matches mRNA codons<br>\n• tRNA has a 3' CCA end where the amino acid attaches<br>\n• tRNA is shaped like a cloverleaf\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carry amino acids"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "BCH 214",
+    "Subheading": "Section F: Proteins & Enzymes"
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": ["Biochemistry", "Proteins"],
+    "Question": {
+      "content": "Proteins are made of:",
+      "type": "OBJ",
+      "options": ["Lipids", "Amino acids", "Sugars", "Nucleotides"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Building Blocks of Proteins</h4>\n<p>The answer is <strong>Amino acids</strong>. Proteins are large polymers made of amino acid monomers linked together by peptide bonds. There are 20 standard amino acids used in protein synthesis.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Macromolecule summary:</strong><br>\n• <em>Proteins</em> — made of amino acids<br>\n• <em>Carbohydrates</em> — made of sugars<br>\n• <em>Lipids</em> — made of fatty acids + glycerol<br>\n• <em>Nucleic acids</em> — made of nucleotides\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amino acids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": ["Biochemistry", "Proteins"],
+    "Question": {
+      "content": "Peptide bond links:",
+      "type": "OBJ",
+      "options": ["Lipids", "Amino acids", "Sugars", "Nucleotides"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Peptide Bond</h4>\n<p>The answer is <strong>Amino acids</strong>. A peptide bond forms between the carboxyl group (-COOH) of one amino acid and the amino group (-NH₂) of the next, releasing water in a condensation reaction.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n\\( \\text{R-COOH} + \\text{H}_2\\text{N-R'} \\rightarrow \\text{R-CO-NH-R'} + \\text{H}_2\\text{O} \\)<br><br>\n<em>Two amino acids = dipeptide<br>\nMany amino acids = polypeptide (protein)</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amino acids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": ["Biochemistry", "Enzymes"],
+    "Question": {
+      "content": "Enzymes are:",
+      "type": "OBJ",
+      "options": ["Lipids", "Carbohydrates", "Biological catalysts", "Hormones"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>What Are Enzymes?</h4>\n<p>The answer is <strong>Biological catalysts</strong>. Enzymes are proteins (with a few RNA exceptions called ribozymes) that speed up chemical reactions in living organisms without being consumed or permanently altered.</p>\n<div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong>Key properties:</strong><br>\n• Highly specific — each enzyme has one substrate<br>\n• Reusable — not used up in the reaction<br>\n• Sensitive — affected by pH and temperature changes\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Biological catalysts"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": ["Biochemistry", "Enzymes", "Bioenergetics"],
+    "Question": {
+      "content": "Enzymes function by:",
+      "type": "OBJ",
+      "options": ["Increasing activation energy", "Decreasing activation energy", "Stopping reactions", "Changing products"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>How Enzymes Work</h4>\n<p>The answer is <strong>Decreasing activation energy</strong>. Enzymes lower the activation energy (Eₐ) — the minimum energy needed to start a reaction — making it easier for reactions to proceed at body temperature.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Analogy:</strong><br>\nThink of activation energy as a hill. Enzymes make the hill shorter — reactions still go downhill to products, just more easily and quickly.<br><br>\n<em>Enzymes do NOT change the final products or the overall energy of the reaction.</em>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Decreasing activation energy"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": ["Biochemistry", "Enzymes", "Enzyme Inhibition"],
+    "Question": {
+      "content": "Competitive inhibition:",
+      "type": "OBJ",
+      "options": ["Binds outside active site", "Competes with substrate", "Destroys enzyme", "Increases Vmax"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Competitive Inhibition</h4>\n<p>The answer is <strong>Competes with substrate</strong>. A competitive inhibitor resembles the substrate and binds to the active site of the enzyme, blocking the substrate from binding.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Comparison:</strong><br>\n• <em>Competitive inhibitor</em> — binds active site; can be overcome by adding more substrate; Vmax unchanged, Km increases<br>\n• <em>Non-competitive inhibitor</em> — binds allosteric site; Vmax decreases, Km unchanged\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Competes with substrate"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": ["Biochemistry", "Enzymes", "Enzyme Kinetics"],
+    "Question": {
+      "content": "Km represents:",
+      "type": "OBJ",
+      "options": ["Maximum velocity", "Substrate affinity", "Energy level", "Protein size"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Michaelis Constant (Km)</h4>\n<p>The answer is <strong>Substrate affinity</strong>. Km (Michaelis constant) is the substrate concentration at which the reaction rate is half of Vmax. It measures how strongly an enzyme binds its substrate.</p>\n<div style='background: var(--preset-bg-color); padding: 10px; border-radius: 6px; margin-top: 10px;'>\n<strong style='color: var(--strongColor);'>Interpreting Km:</strong><br>\n• <em>Low Km</em> — enzyme has HIGH affinity for substrate (binds easily)<br>\n• <em>High Km</em> — enzyme has LOW affinity (needs more substrate to work)<br><br>\n\\( V_{max} \\) = maximum reaction velocity (separate concept)\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Substrate affinity"
+    }
+  }
+]
