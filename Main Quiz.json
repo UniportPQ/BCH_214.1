@@ -1,0 +1,604 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "subjective and objective",
+    "course_title": "General Biochemistry II",
+    "code": "BCH 214.1",
+    "session": "Main Quiz",
+    "topics": [
+      "Cell Biology", "Membrane Structure", "Membrane Transport", "ATP", "Lipids", "Fatty Acids", "Nutrition", "Bioenergetics", "Thermodynamics", "Nucleic Acids", "DNA", "RNA", "Cell Theory", "Cell Organelles", "Proteins", "Amino Acids", "Enzymes"
+    ],
+    "time": 180
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all questions. For subjective questions, provide detailed explanations and well-labeled diagrams where requested."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Cell Biology",
+      "Membrane Structure"
+    ],
+    "Question": {
+      "content": "With the aid of a well labelled diagram, describe the fluid mosaic model of the plasma membrane.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0;'>Fluid Mosaic Model</h4>\n<p>The membrane is a dynamic structure. <strong>'Fluid'</strong> means lipids and proteins can move laterally. <strong>'Mosaic'</strong> means it contains diverse components.</p>\n<ul>\n<li><strong>Phospholipid bilayer:</strong> Hydrophilic heads face water; hydrophobic tails face inward.</li>\n<li><strong>Integral proteins:</strong> Embedded across the bilayer (channels, carriers, receptors).</li>\n<li><strong>Peripheral proteins:</strong> Attached to surface (enzymes, structural support).</li>\n<li><strong>Cholesterol:</strong> Modulates fluidity and stability.</li>\n<li><strong>Carbohydrates:</strong> Attached to proteins/lipids for cell recognition.</li>\n</ul>\n<pre style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; font-family: monospace;'>\n    ┌─────────────────────────────────────┐\n    │  🍬 Carbohydrate chain              │\n    │     │                               │\n══╪═════╪══════╪═══════════════════════   │\n  │  ┌──┴──┐   │  (Integral protein)      │\n  │  │     │   │                          │\n══╪══┴─────┴═══╪═══════════════════════   │\n  │     │       │  (Cholesterol)          │\n  │  Peripheral │                          │\n  │  protein    │                          │\n══╪═════════════╪═══════════════════════   │\n  │             │                          │\n  └─────────────┴──────────────────────────┘\n</pre>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The fluid mosaic model describes the plasma membrane as a phospholipid bilayer with embedded proteins that can move laterally. The 'fluid' refers to lipid mobility, and 'mosaic' refers to the diverse protein and carbohydrate components."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Cell Biology",
+      "Membrane Structure"
+    ],
+    "Question": {
+      "content": "State the structural components of biological membranes and explain their functions.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Membrane Components & Functions</h4>\n<table style='width:100%; border-collapse: collapse;'>\n<tr style='background: var(--preset-bg-color);'><th style='padding: 8px; text-align: left;'>Component</th><th style='padding: 8px; text-align: left;'>Function</th></tr>\n<tr><td style='padding: 6px; border-bottom: 1px solid #ddd;'><strong>Phospholipids</strong></td><td style='padding: 6px; border-bottom: 1px solid #ddd;'>Form the bilayer barrier; selective permeability.</td></tr>\n<tr><td style='padding: 6px; border-bottom: 1px solid #ddd;'><strong>Integral Proteins</strong></td><td style='padding: 6px; border-bottom: 1px solid #ddd;'>Transport (channels/pumps), signal reception, adhesion.</td></tr>\n<tr><td style='padding: 6px; border-bottom: 1px solid #ddd;'><strong>Peripheral Proteins</strong></td><td style='padding: 6px; border-bottom: 1px solid #ddd;'>Enzymatic activity, cytoskeleton anchoring, signaling.</td></tr>\n<tr><td style='padding: 6px; border-bottom: 1px solid #ddd;'><strong>Cholesterol</strong></td><td style='padding: 6px; border-bottom: 1px solid #ddd;'>Regulates fluidity and stability.</td></tr>\n<tr><td style='padding: 6px;'><strong>Glycolipids/Glycoproteins</strong></td><td style='padding: 6px;'>Cell recognition, immune response, adhesion.</td></tr>\n</table>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Biological membranes consist of phospholipids (barrier), proteins (transport, signaling, enzymes), cholesterol (fluidity regulation), and carbohydrates (cell recognition)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Membrane Transport"
+    ],
+    "Question": {
+      "content": "Differentiate between active transport and passive transport.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<div style='display: flex; gap: 15px; flex-wrap: wrap;'>\n<div style='flex: 1; background: var(--preset-bg-color); padding: 12px; border-radius: 8px;'>\n<h4 style='color: #d9534f; margin-top: 0;'>🔋 Active Transport</h4>\n<ul><li>Requires <strong>ATP</strong> (energy)</li><li>Moves <strong>against</strong> gradient (low → high)</li><li><strong>Examples:</strong> Sodium-potassium pump, endocytosis</li></ul>\n</div>\n<div style='flex: 1; background: var(--preset-bg-color); padding: 12px; border-radius: 8px;'>\n<h4 style='color: #5bc0de; margin-top: 0;'>🌊 Passive Transport</h4>\n<ul><li><strong>No energy</strong> required</li><li>Moves <strong>down</strong> gradient (high → low)</li><li><strong>Examples:</strong> Diffusion, osmosis, facilitated diffusion</li></ul>\n</div>\n</div>\n<p><strong>Analogy:</strong> Active = pushing a boulder uphill. Passive = rolling it downhill.</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Active transport requires ATP and moves substances against their concentration gradient. Passive transport requires no energy and moves substances down their concentration gradient."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Membrane Transport"
+    ],
+    "Question": {
+      "content": "Explain the following transport systems: uniport, symport, antiport, facilitated diffusion.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Membrane Transport Systems</h4>\n<div style='margin-bottom: 12px; background: var(--infoBg); padding: 10px; border-radius: 6px;'>\n<strong>🚪 Facilitated Diffusion:</strong> Passive movement through specific protein channels/carriers. <em>No energy, high → low concentration.</em> Example: Glucose transporter (GLUT).\n</div>\n<ul>\n<li><strong>Uniport:</strong> Moves <strong>one</strong> solute in <strong>one</strong> direction. Example: GLUT1.</li>\n<li><strong>Symport (Co-transport):</strong> Moves <strong>two different solutes</strong> in the <strong>same</strong> direction. Example: Sodium-glucose symporter (SGLT).</li>\n<li><strong>Antiport (Exchange):</strong> Moves <strong>two different solutes</strong> in <strong>opposite</strong> directions. Example: Sodium-calcium exchanger (NCX).</li>\n</ul>\n<p>💡 <strong>Memory Aid:</strong> Uni = 1; Sym = Same direction; Anti = Opposite.</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uniport transports one solute. Symport transports two solutes in the same direction. Antiport transports two solutes in opposite directions. Facilitated diffusion is passive, carrier-mediated transport down a concentration gradient."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Membrane Transport",
+      "ATP"
+    ],
+    "Question": {
+      "content": "Describe the sodium-potassium pump and state its importance.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Na⁺/K⁺ ATPase (Sodium-Potassium Pump)</h4>\n<p><strong>Mechanism:</strong> An <strong>antiporter</strong> that uses 1 ATP to move <strong>3 Na⁺ out</strong> and <strong>2 K⁺ in</strong>. This maintains electrochemical gradients.</p>\n<p><strong>Importance:</strong></p>\n<ol>\n<li><strong>Resting membrane potential:</strong> Creates negative interior (-70 mV), essential for nerve/muscle function.</li>\n<li><strong>Osmotic balance:</strong> Prevents cell swelling by controlling ion concentrations.</li>\n<li><strong>Secondary transport:</strong> The Na⁺ gradient powers symporters (e.g., glucose absorption in intestines).</li>\n</ol>\n<p>⚡ Consumes ~30% of cellular ATP in animals.</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The sodium-potassium pump is an active transport antiporter that exports 3 Na⁺ and imports 2 K⁺ per ATP. It maintains membrane potential, regulates cell volume, and drives secondary active transport."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Lipids"
+    ],
+    "Question": {
+      "content": "What are phospholipids? Describe their structure and functions.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Phospholipids: The Membrane Architects</h4>\n<p><strong>Structure:</strong> <strong>Amphipathic</strong> molecules with:</p>\n<ul>\n<li><strong>Head:</strong> Hydrophilic (phosphate + glycerol or sphingosine)</li>\n<li><strong>Tails:</strong> Hydrophobic (2 fatty acid chains)</li>\n</ul>\n<p><strong>Functions:</strong></p>\n<ul>\n<li>Form the <strong>bilayer</strong> foundation of all cell membranes</li>\n<li>Act as a <strong>selective barrier</strong> to polar molecules</li>\n<li>Participate in <strong>cell signaling</strong> (e.g., phosphoinositides)</li>\n<li>Serve as <strong>precursors</strong> for second messengers (e.g., diacylglycerol)</li>\n</ul>\n<p>🧪 <strong>In water:</strong> They spontaneously form bilayers or micelles due to hydrophobic effect.</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phospholipids are amphipathic lipids with a hydrophilic phosphate head and two hydrophobic fatty acid tails. They form the bilayer of cell membranes, providing structural integrity and selective permeability."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Lipids",
+      "Fatty Acids"
+    ],
+    "Question": {
+      "content": "Differentiate between saturated and unsaturated fatty acids, with examples.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<div style='display: flex; gap: 15px; flex-wrap: wrap;'>\n<div style='flex: 1; background: var(--preset-bg-color); padding: 12px; border-radius: 8px;'>\n<h4 style='color: #d9534f; margin-top: 0;'>🥩 Saturated</h4>\n<ul><li><strong>Bonds:</strong> No C=C double bonds</li><li><strong>Shape:</strong> Straight chains</li><li><strong>State (25°C):</strong> Solid (butter, lard)</li><li><strong>Example:</strong> Palmitic acid (C16:0), Stearic acid (C18:0)</li><li><strong>Source:</strong> Animal fats, coconut oil</li></ul>\n</div>\n<div style='flex: 1; background: var(--preset-bg-color); padding: 12px; border-radius: 8px;'>\n<h4 style='color: #5bc0de; margin-top: 0;'>🫒 Unsaturated</h4>\n<ul><li><strong>Bonds:</strong> Contains ≥1 C=C double bond</li><li><strong>Shape:</strong> Bent/kinked (cis configuration)</li><li><strong>State (25°C):</strong> Liquid (oils)</li><li><strong>Example:</strong> Oleic acid (C18:1), Linoleic acid (C18:2)</li><li><strong>Source:</strong> Olive oil, fish oil</li></ul>\n</div>\n</div>\n<p><strong>Biological significance:</strong> Unsaturated fats increase membrane fluidity at low temperatures.</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Saturated fatty acids have no double bonds, are straight, solid at room temperature (e.g., stearic acid). Unsaturated fatty acids have one or more double bonds, cause kinks, are liquid at room temperature (e.g., oleic acid)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Lipids",
+      "Nutrition"
+    ],
+    "Question": {
+      "content": "What are essential fatty acids? Give examples and state their importance.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Essential Fatty Acids (EFAs)</h4>\n<p><strong>Definition:</strong> Fatty acids that the <strong>body cannot synthesize</strong> and must be obtained from the diet. They are polyunsaturated fatty acids (PUFAs).</p>\n<p><strong>Examples:</strong></p>\n<ul>\n<li><strong>Linoleic acid (LA):</strong> Omega-6 (C18:2). Sources: vegetable oils, nuts.</li>\n<li><strong>α-Linolenic acid (ALA):</strong> Omega-3 (C18:3). Sources: flaxseed, walnuts, fish.</li>\n</ul>\n<p><strong>Importance:</strong></p>\n<ul>\n<li>Precursors for <strong>eicosanoids</strong> (prostaglandins, leukotrienes) — hormone-like regulators.</li>\n<li>Essential for <strong>brain development</strong> and vision.</li>\n<li>Maintain <strong>membrane fluidity</strong> and function.</li>\n<li>Deficiency causes skin lesions, growth retardation, and impaired immune function.</li>\n</ul>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Essential fatty acids (linoleic acid and α-linolenic acid) cannot be synthesized by the body. They are precursors for eicosanoids, crucial for brain function, membrane integrity, and inflammation regulation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Lipids"
+    ],
+    "Question": {
+      "content": "Write short notes on: cholesterol, lipoproteins, sphingolipids.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Short Notes: Membrane Lipids & Transport</h4>\n<div style='margin-bottom: 15px; padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>🟡 Cholesterol:</strong> A steroid lipid with a four-ring structure. Functions: modulates membrane fluidity, precursor for bile acids, vitamin D, and steroid hormones (estrogen, testosterone).\n</div>\n<div style='margin-bottom: 15px; padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>📦 Lipoproteins:</strong> Spherical particles that transport insoluble lipids in blood. Types: <strong>LDL</strong> (\"bad\" cholesterol, delivers cholesterol to tissues), <strong>HDL</strong> (\"good\" cholesterol, removes excess cholesterol), <strong>VLDL</strong> (transports triglycerides).\n</div>\n<div style='padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>🧠 Sphingolipids:</strong> Lipids with a sphingosine backbone (not glycerol). Important in <strong>myelin sheaths</strong> (nerve insulation) and <strong>cell recognition</strong> (gangliosides). Examples: sphingomyelin, cerebrosides.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cholesterol regulates membrane fluidity and is a steroid hormone precursor. Lipoproteins transport insoluble lipids (LDL delivers cholesterol, HDL removes it). Sphingolipids are structural in myelin and involved in cell recognition."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Bioenergetics",
+      "ATP"
+    ],
+    "Question": {
+      "content": "Explain why ATP is referred to as the energy currency of the cell.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>ATP: The Universal Energy Carrier</h4>\n<p><strong>Why \"Currency\":</strong> ATP is the standard molecule used to transfer energy between exergonic (energy-releasing) and endergonic (energy-requiring) reactions — like money being used to buy goods.</p>\n<p><strong>Structure:</strong> Adenosine triphosphate has <strong>three phosphate groups</strong> connected by high-energy bonds (∼). Hydrolysis of ATP → ADP + P<sub>i</sub> releases ~7.3 kcal/mol.</p>\n<p><strong>Coupling:</strong> ATP <strong>couples</strong> energy-releasing reactions (e.g., glucose breakdown) to energy-requiring processes (muscle contraction, active transport, synthesis).</p>\n<p>🔄 <strong>ATP Cycle:</strong> ATP → ADP + P (spend) ... then ADP + P → ATP (recharge via cellular respiration/photosynthesis).</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ATP is the energy currency because it stores energy in high-energy phosphate bonds and couples exergonic and endergonic reactions, providing a universal, reusable energy source for cellular work."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Bioenergetics"
+    ],
+    "Question": {
+      "content": "What are high-energy phosphate compounds? Give examples and explain their significance.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>High-Energy Phosphate Compounds</h4>\n<p><strong>Definition:</strong> Molecules containing phosphate bonds that release <strong>large amounts of free energy</strong> (>7 kcal/mol) upon hydrolysis.</p>\n<p><strong>Examples (by energy yield):</strong></p>\n<ul>\n<li><strong>Phosphoenolpyruvate (PEP):</strong> ~14.8 kcal/mol — highest in cells, used in glycolysis.</li>\n<li><strong>Creatine phosphate:</strong> ~10.3 kcal/mol — rapid ATP regeneration in muscles.</li>\n<li><strong>ATP:</strong> ~7.3 kcal/mol — the universal intermediate.</li>\n<li><strong>1,3-Bisphosphoglycerate:</strong> ~11.8 kcal/mol — glycolytic intermediate.</li>\n</ul>\n<p><strong>Significance:</strong></p>\n<ul>\n<li>Act as <strong>energy reservoirs</strong> for ATP synthesis.</li>\n<li>Drive <strong>unfavorable reactions</strong> via substrate-level phosphorylation.</li>\n<li>Creatine phosphate provides <strong>immediate energy</strong> for muscle contraction.</li>\n</ul>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High-energy phosphate compounds (e.g., ATP, creatine phosphate, PEP) release large free energy upon hydrolysis. They serve as energy reservoirs and drive endergonic reactions via phosphorylation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Thermodynamics",
+      "Bioenergetics"
+    ],
+    "Question": {
+      "content": "State and explain the first and second laws of thermodynamics.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Laws of Thermodynamics in Biology</h4>\n<div style='margin-bottom: 15px; padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>🔷 First Law (Conservation of Energy):</strong>\n<p>Energy cannot be created or destroyed — only transformed from one form to another. In cells: Chemical energy (glucose) → kinetic energy (movement) + heat.</p>\n</div>\n<div style='padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>🌀 Second Law (Entropy):</strong>\n<p>Total entropy (disorder) of the universe always increases. Every energy transfer increases randomness. Cells maintain order (low entropy) by <strong>exporting heat</strong> (increasing universal entropy).</p>\n<p><strong>Biological implication:</strong> Living systems are <strong>open systems</strong> that require constant energy input to maintain organization against entropy.</p>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "First law: Energy is conserved, only transformed. Second law: Entropy always increases; cells maintain order by using energy and releasing heat, increasing universal entropy."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Thermodynamics",
+      "Bioenergetics"
+    ],
+    "Question": {
+      "content": "Calculate free energy change, ΔG, from given values of ΔH and ΔS.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Gibbs Free Energy Calculation</h4>\n<p><strong>Formula:</strong> ΔG = ΔH − TΔS</p>\n<ul>\n<li><strong>ΔG:</strong> Change in free energy (available to do work)</li>\n<li><strong>ΔH:</strong> Change in enthalpy (total heat content)</li>\n<li><strong>T:</strong> Absolute temperature (Kelvin = °C + 273)</li>\n<li><strong>ΔS:</strong> Change in entropy (disorder)</li>\n</ul>\n<p><strong>Interpretation:</strong></p>\n<ul>\n<li><strong>ΔG < 0:</strong> Exergonic (spontaneous, releases energy)</li>\n<li><strong>ΔG > 0:</strong> Endergonic (non-spontaneous, requires energy)</li>\n<li><strong>ΔG = 0:</strong> Equilibrium</li>\n</ul>\n<p><strong>Example:</strong> If ΔH = -50 kJ/mol, ΔS = +0.1 kJ/(mol·K), T = 298K:<br>\nΔG = -50 - (298 × 0.1) = -50 - 29.8 = <strong>-79.8 kJ/mol</strong> (spontaneous)</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ΔG = ΔH − TΔS. Negative ΔG indicates spontaneity (exergonic), positive ΔG indicates non-spontaneous (endergonic)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Nucleic Acids",
+      "DNA"
+    ],
+    "Question": {
+      "content": "Describe the structure of DNA with the aid of a labelled diagram.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>DNA Double Helix Structure</h4>\n<p><strong>Components:</strong> DNA is a polymer of <strong>nucleotides</strong>. Each nucleotide = deoxyribose sugar + phosphate + nitrogenous base (A, T, G, C).</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n<li><strong>Double helix:</strong> Two strands wound around a common axis</li>\n<li><strong>Antiparallel:</strong> Strands run 5'→3' and 3'→5' opposite directions</li>\n<li><strong>Base pairing:</strong> A pairs with T (2 H-bonds), G pairs with C (3 H-bonds)</li>\n<li><strong>Backbone:</strong> Sugar-phosphate (covalent bonds)</li>\n<li><strong>Major/minor grooves:</strong> Sites for protein binding</li>\n</ul>\n<pre style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px;'>\n       5' ──P──S──A──P──S──T──P──S──C── 3'\n              │      │      │\n              T      A      G\n              │      │      │\n       3' ──P──S──T──P──S──A──P──S──G── 5'\n       (Antiparallel strands)\n</pre>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "DNA is a double helix of antiparallel strands with sugar-phosphate backbones and complementary base pairing (A-T, G-C) via hydrogen bonds."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Nucleic Acids",
+      "DNA"
+    ],
+    "Question": {
+      "content": "State the characteristic features of the DNA molecule.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Key Features of DNA</h4>\n<ol>\n<li><strong>Double-stranded</strong> (except in some viruses)</li>\n<li><strong>Antiparallel orientation</strong> (5'→3' and 3'→5')</li>\n<li><strong>Complementary base pairing</strong> (A=T, G≡C) — Chargaff's rules</li>\n<li><strong>Right-handed helix</strong> (B-DNA, most common form)</li>\n<li><strong>Diameter ~2 nm</strong>, with major and minor grooves</li>\n<li><strong>Stability:</strong> Stacking interactions + H-bonds</li>\n<li><strong>Carries genetic information</strong> in the sequence of bases</li>\n<li><strong>Replicates semi-conservatively</strong></li>\n</ol>\n<p><strong>Chargaff's Rule:</strong> %A = %T, %G = %C</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "DNA features: double-stranded, antiparallel, complementary base pairing (A=T, G≡C), right-handed helix, stores genetic information, and replicates semi-conservatively."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Nucleic Acids",
+      "DNA",
+      "RNA"
+    ],
+    "Question": {
+      "content": "Differentiate between DNA and RNA.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<table style='width:100%; border-collapse: collapse;'>\n<tr style='background: var(--preset-bg-color);'><th style='padding: 10px; text-align: left;'>Feature</th><th style='padding: 10px; text-align: left;'>DNA</th><th style='padding: 10px; text-align: left;'>RNA</th></tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Sugar</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Deoxyribose</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Ribose</td></tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Strands</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Double helix</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Single strand (usually)</td></tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Bases</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>A, T, G, C</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>A, U, G, C (U replaces T)</td></tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Function</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Long-term storage</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Protein synthesis, gene expression</td></tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Location</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Nucleus (mostly), mitochondria</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Nucleus + cytoplasm</td></tr>\n<tr><td style='padding: 8px;'><strong>Stability</strong></td><td style='padding: 8px;'>Very stable</td><td style='padding: 8px;'>Less stable (short-lived)</td></tr>\n</table>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "DNA has deoxyribose, is double-stranded, uses thymine (A-T, G-C), and stores genetic information. RNA has ribose, is single-stranded, uses uracil (A-U, G-C), and functions in protein synthesis."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Nucleic Acids"
+    ],
+    "Question": {
+      "content": "Distinguish between nucleosides and nucleotides, with examples.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Nucleosides vs. Nucleotides</h4>\n<div style='display: flex; gap: 15px; flex-wrap: wrap;'>\n<div style='flex: 1; background: var(--preset-bg-color); padding: 12px; border-radius: 8px;'>\n<strong>🧬 Nucleoside</strong>\n<p>Structure: <strong>Base + Sugar</strong> (no phosphate)</p>\n<p><strong>Examples:</strong></p>\n<ul><li>Adenosine (A + ribose)</li><li>Deoxyadenosine (A + deoxyribose)</li></ul>\n<p><em>Function:</em> Signaling molecules, drug precursors.</p>\n</div>\n<div style='flex: 1; background: var(--preset-bg-color); padding: 12px; border-radius: 8px;'>\n<strong>⚡ Nucleotide</strong>\n<p>Structure: <strong>Base + Sugar + Phosphate(s)</strong></p>\n<p><strong>Examples:</strong></p>\n<ul><li>AMP, ADP, ATP (adenine + ribose + P)</li><li>dATP (deoxy form)</li></ul>\n<p><em>Function:</em> Energy currency, nucleic acid monomers, signaling (cAMP).</p>\n</div>\n</div>\n<p>💡 <strong>Memory:</strong> Nucleo<strong>side</strong> = base + sugar (\"side\" as in beside, incomplete). Nucleo<strong>tide</strong> = base + sugar + phosphate (\"tide\" as in tide pool, containing phosphate from ocean).</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleosides consist of a nitrogenous base + sugar (e.g., adenosine). Nucleotides consist of a base + sugar + one or more phosphates (e.g., ATP, AMP) and serve as nucleic acid monomers and energy carriers."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Nucleic Acids",
+      "RNA"
+    ],
+    "Question": {
+      "content": "State the types of RNA and explain the role of each.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Types of RNA and Their Functions</h4>\n<div style='margin-bottom: 12px; padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>📝 mRNA (Messenger RNA):</strong> Carries genetic code from DNA to ribosomes. Serves as <strong>template for protein synthesis</strong>. Linear sequence of codons (3 bases) specifies amino acids.\n</div>\n<div style='margin-bottom: 12px; padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>🔗 tRNA (Transfer RNA):</strong> <strong>Adapter molecule</strong> that brings specific amino acids to the ribosome. Has anticodon that pairs with mRNA codon. Cloverleaf structure.\n</div>\n<div style='margin-bottom: 12px; padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>🏭 rRNA (Ribosomal RNA):</strong> Structural and catalytic component of <strong>ribosomes</strong>. Together with proteins, forms the site of protein synthesis (peptidyl transferase activity).\n</div>\n<div style='padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>🔬 Other non-coding RNAs:</strong> snRNA (splicing), miRNA/siRNA (gene regulation), lncRNA (regulatory).\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "mRNA carries genetic code for protein sequence. tRNA delivers amino acids to ribosomes. rRNA forms the catalytic core of ribosomes for protein synthesis."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Cell Biology",
+      "Cell Theory"
+    ],
+    "Question": {
+      "content": "State the cell theory.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>The Cell Theory</h4>\n<p>Three fundamental principles:</p>\n<ol>\n<li><strong>All living organisms</strong> are composed of <strong>one or more cells</strong>.</li>\n<li>The <strong>cell is the basic structural and functional unit</strong> of life.</li>\n<li><strong>All cells arise from pre-existing cells</strong> (Virchow, 1858).</li>\n</ol>\n<p><strong>Historical contributors:</strong></p>\n<ul>\n<li>Hooke (1665): First observed cells (cork)</li>\n<li>Schleiden & Schwann (1838-39): Formulated first two tenets</li>\n<li>Virchow (1858): Added third tenet</li>\n</ul>\n<p><strong>Modern additions:</strong> Cells contain DNA, energy flows within cells, all cells have similar basic chemistry.</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The cell theory states: 1) All organisms are made of cells, 2) The cell is the basic unit of life, and 3) All cells arise from pre-existing cells."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Compare prokaryotic and eukaryotic cells.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<table style='width:100%; border-collapse: collapse;'>\n<tr style='background: var(--preset-bg-color);'><th style='padding: 10px; text-align: left;'>Feature</th><th style='padding: 10px; text-align: left;'>Prokaryotic</th><th style='padding: 10px; text-align: left;'>Eukaryotic</th> </tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Nucleus</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Absent (nucleoid region)</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Present (membrane-bound)</td> </tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Size</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>0.1–5 μm</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>10–100 μm</td> </tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Membrane-bound organelles</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Absent</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Present (mitochondria, ER, Golgi)</td> </tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>DNA</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Circular, no histones (usually)</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Linear, with histones (chromosomes)</td> </tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Ribosomes</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>70S</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>80S</td> </tr>\n<tr><td style='padding: 8px;'><strong>Examples</strong></td><td style='padding: 8px;'>Bacteria, Archaea</td><td style='padding: 8px;'>Animals, plants, fungi, protists</td> </tr>\n</table>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prokaryotes lack a nucleus and membrane-bound organelles, have circular DNA and 70S ribosomes. Eukaryotes have a true nucleus, membrane-bound organelles, linear DNA, and 80S ribosomes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Cell Biology",
+      "Cell Organelles"
+    ],
+    "Question": {
+      "content": "State the functions of the following organelles: nucleus, mitochondrion, rough endoplasmic reticulum, Golgi apparatus, lysosome, plasma membrane.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Organelle Functions</h4>\n<ul>\n<li><strong>🧬 Nucleus:</strong> Stores DNA; site of transcription (RNA synthesis); controls cellular activities.</li>\n<li><strong>⚡ Mitochondrion:</strong> Cellular respiration; ATP production (powerhouse); apoptosis regulation.</li>\n<li><strong>📦 Rough ER:</strong> Protein synthesis (ribosomes attached); protein folding and modification.</li>\n<li><strong>📬 Golgi Apparatus:</strong> Modifies, sorts, and packages proteins into vesicles for secretion or delivery.</li>\n<li><strong>🧹 Lysosome:</strong> Digestion (hydrolytic enzymes); phagocytosis; autophagy; waste removal.</li>\n<li><strong>🚪 Plasma Membrane:</strong> Selective barrier; transport; cell signaling; adhesion.</li>\n</ul>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleus: genetic control. Mitochondrion: ATP production. Rough ER: protein synthesis. Golgi: modification and packaging. Lysosome: digestion. Plasma membrane: selective barrier and transport."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "Differentiate between plant and animal cells.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<table style='width:100%; border-collapse: collapse;'>\n<tr style='background: var(--preset-bg-color);'><th style='padding: 10px;'>Feature</th><th style='padding: 10px;'>Plant Cell</th><th style='padding: 10px;'>Animal Cell</th> </tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Cell wall</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Present (cellulose)</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Absent</td> </tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Chloroplasts</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Present (photosynthesis)</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Absent</td> </tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Vacuole</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Large central vacuole</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Small vacuoles (if present)</td> </tr>\n<tr><td style='padding: 8px; border-bottom: 1px solid #ddd;'><strong>Shape</strong></td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Fixed, rectangular</td><td style='padding: 8px; border-bottom: 1px solid #ddd;'>Irregular, flexible</td> </tr>\n<tr><td style='padding: 8px;'><strong>Energy storage</strong></td><td style='padding: 8px;'>Starch</td><td style='padding: 8px;'>Glycogen</td> </tr>\n</table>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plant cells have cell walls, chloroplasts, and large central vacuoles; animal cells lack these but have centrioles and store glycogen. Plant cells are fixed shape; animal cells are flexible."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Membrane Transport"
+    ],
+    "Question": {
+      "content": "Explain osmosis, diffusion, and facilitated diffusion.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Passive Transport Mechanisms</h4>\n<div style='margin-bottom: 12px; padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>💧 Diffusion:</strong> Net movement of molecules from <strong>high to low concentration</strong>. No membrane needed (simple diffusion across membrane for small nonpolar molecules like O₂, CO₂).\n</div>\n<div style='margin-bottom: 12px; padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>💦 Osmosis:</strong> Special case of diffusion — movement of <strong>water</strong> across a <strong>semipermeable membrane</strong> from high water concentration (low solute) to low water concentration (high solute).\n</div>\n<div style='padding: 10px; background: var(--preset-bg-color); border-radius: 6px;'>\n<strong>🚪 Facilitated Diffusion:</strong> Diffusion of polar molecules (glucose, ions) through <strong>specific protein channels or carriers</strong>. Still passive (no ATP), still down gradient, but requires protein assistance.\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Diffusion is passive movement down concentration gradient. Osmosis is water diffusion across a membrane. Facilitated diffusion is protein-mediated passive transport of polar molecules."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Membrane Transport"
+    ],
+    "Question": {
+      "content": "Explain endocytosis and exocytosis.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Bulk Transport</h4>\n<div style='display: flex; gap: 15px; flex-wrap: wrap;'>\n<div style='flex: 1; background: var(--preset-bg-color); padding: 12px; border-radius: 8px;'>\n<strong>📥 Endocytosis (Into cell)</strong>\n<p>Cell takes in large molecules/particles by engulfing them with membrane.</p>\n<p><strong>Types:</strong></p>\n<ul><li><strong>Phagocytosis:</strong> \"Cell eating\" — engulfing large particles (bacteria)</li><li><strong>Pinocytosis:</strong> \"Cell drinking\" — engulfing fluids/solutes</li><li><strong>Receptor-mediated:</strong> Specific uptake via receptors (e.g., cholesterol uptake via LDL receptors)</li></ul>\n</div>\n<div style='flex: 1; background: var(--preset-bg-color); padding: 12px; border-radius: 8px;'>\n<strong>📤 Exocytosis (Out of cell)</strong>\n<p>Vesicles fuse with plasma membrane to release contents outside.</p>\n<p><strong>Functions:</strong></p>\n<ul><li>Secretion (hormones, neurotransmitters, enzymes)</li><li>Membrane renewal (adding lipids/proteins)</li><li>Waste removal</li></ul>\n</div>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Endocytosis brings substances into the cell via vesicle formation (phagocytosis, pinocytosis). Exocytosis releases substances from the cell via vesicle fusion with the plasma membrane."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Membrane Transport"
+    ],
+    "Question": {
+      "content": "Discuss membrane transport across the cell membrane.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Membrane Transport Overview</h4>\n<p>Transport across the membrane is essential for nutrient uptake, waste removal, and signaling.</p>\n<p><strong>1. Passive Transport (No energy):</strong></p>\n<ul><li>Simple diffusion (O₂, CO₂, lipids)</li><li>Facilitated diffusion (glucose via GLUT, ions via channels)</li><li>Osmosis (water)</li></ul>\n<p><strong>2. Active Transport (Requires ATP):</strong></p>\n<ul><li>Primary active transport: Direct ATP use (Na⁺/K⁺ pump, Ca²⁺ ATPase)</li><li>Secondary active transport: Uses ion gradient (symport/antiport)</li></ul>\n<p><strong>3. Bulk Transport (Vesicular):</strong></p>\n<ul><li>Endocytosis (phagocytosis, pinocytosis, receptor-mediated)</li><li>Exocytosis</li></ul>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Membrane transport includes passive (diffusion, osmosis, facilitated), active (primary and secondary using ATP), and bulk transport (endocytosis/exocytosis)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Proteins",
+      "Amino Acids"
+    ],
+    "Question": {
+      "content": "Explain peptide bond formation.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Peptide Bond Formation</h4>\n<p>A <strong>peptide bond</strong> is a covalent bond formed between the <strong>carboxyl group (-COOH)</strong> of one amino acid and the <strong>amino group (-NH₂)</strong> of another.</p>\n<p><strong>Reaction:</strong> Condensation (dehydration synthesis) — removal of a water molecule.</p>\n<p><strong>Features:</strong></p>\n<ul>\n<li>Forms the <strong>backbone</strong> of proteins (N-C-C repeat).</li>\n<li><strong>Partial double bond character</strong> — rigid and planar, restricts rotation.</li>\n<li>Occurs during <strong>translation</strong> on ribosomes (peptidyl transferase activity of rRNA).</li>\n<li>Results in a polypeptide chain with an <strong>N-terminus</strong> (free amino) and <strong>C-terminus</strong> (free carboxyl).</li>\n</ul>\n<p>🔬 <strong>Structure:</strong> -NH-CO- (amide bond)</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A peptide bond is a covalent bond formed by condensation between the carboxyl group of one amino acid and the amino group of another, releasing water. It forms the protein backbone."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Proteins",
+      "Amino Acids"
+    ],
+    "Question": {
+      "content": "Describe the general structure and classification of amino acids.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Amino Acids: Structure & Classification</h4>\n<p><strong>General Structure:</strong> A central α-carbon bonded to:</p>\n<ul><li>Amino group (-NH₂)</li><li>Carboxyl group (-COOH)</li><li>Hydrogen atom (H)</li><li>Variable <strong>R-group (side chain)</strong></li></ul>\n<p><strong>Classification by R-group properties:</strong></p>\n<ul>\n<li><strong>Nonpolar (hydrophobic):</strong> Ala, Val, Leu, Ile, Pro, Phe, Trp, Met</li>\n<li><strong>Polar uncharged:</strong> Ser, Thr, Cys, Tyr, Asn, Gln</li>\n<li><strong>Positively charged (basic):</strong> Lys, Arg, His</li>\n<li><strong>Negatively charged (acidic):</strong> Asp, Glu</li>\n</ul>\n<p><strong>Essential amino acids:</strong> 9 that cannot be synthesized (PVT TIM HALL mnemonic).</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amino acids have a central α-carbon with amino, carboxyl, hydrogen, and variable R-group. They are classified by R-group properties: nonpolar, polar uncharged, acidic, basic."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Proteins"
+    ],
+    "Question": {
+      "content": "Describe the primary, secondary, tertiary, and quaternary structures of proteins.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Levels of Protein Structure</h4>\n<div style='margin-bottom: 10px; padding: 8px; background: var(--preset-bg-color); border-radius: 5px;'><strong>1. Primary:</strong> Linear sequence of amino acids. Bond: peptide bonds. Determines all higher structure.</div>\n<div style='margin-bottom: 10px; padding: 8px; background: var(--preset-bg-color); border-radius: 5px;'><strong>2. Secondary:</strong> Local folding patterns: α-helix (H-bonds within chain) and β-pleated sheet (H-bonds between chains/segments).</div>\n<div style='margin-bottom: 10px; padding: 8px; background: var(--preset-bg-color); border-radius: 5px;'><strong>3. Tertiary:</strong> Overall 3D conformation of a single polypeptide. Bonds: hydrophobic interactions, H-bonds, ionic bonds, disulfide bridges, van der Waals.</div>\n<div style='padding: 8px; background: var(--preset-bg-color); border-radius: 5px;'><strong>4. Quaternary:</strong> Assembly of multiple polypeptide subunits. Example: Hemoglobin (4 subunits: 2α, 2β).</div>\n<p>🏗️ <strong>Analogy:</strong> Primary = string of beads; Secondary = twisting; Tertiary = folding into a ball; Quaternary = sticking multiple balls together.</p>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Primary: amino acid sequence. Secondary: α-helices and β-sheets via H-bonds. Tertiary: overall 3D shape of one chain. Quaternary: arrangement of multiple subunits."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Enzymes"
+    ],
+    "Question": {
+      "content": "Define enzymes and classify them with examples.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Enzymes: Definition & Classification</h4>\n<p><strong>Definition:</strong> Enzymes are <strong>biological catalysts</strong> (mostly proteins) that increase reaction rates by lowering activation energy without being consumed.</p>\n<p><strong>IUBMB Classification (6 classes):</strong></p>\n<ul>\n<li><strong>1. Oxidoreductases:</strong> Transfer electrons (oxidation-reduction). Example: Dehydrogenases (lactate dehydrogenase).</li>\n<li><strong>2. Transferases:</strong> Transfer functional groups. Example: Kinases (hexokinase).</li>\n<li><strong>3. Hydrolases:</strong> Hydrolysis reactions. Example: Proteases (trypsin), lipases.</li>\n<li><strong>4. Lyases:</strong> Add/remove groups without hydrolysis/oxidation. Example: Decarboxylases.</li>\n<li><strong>5. Isomerases:</strong> Rearrange atoms within molecule. Example: Phosphoglucose isomerase.</li>\n<li><strong>6. Ligases:</strong> Join molecules using ATP. Example: DNA ligase.</li>\n</ul>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enzymes are protein catalysts that lower activation energy. They are classified into 6 classes: oxidoreductases, transferases, hydrolases, lyases, isomerases, and ligases."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Enzymes"
+    ],
+    "Question": {
+      "content": "Explain enzyme inhibition: competitive and non-competitive.",
+      "type": "SUBJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='padding: 15px; border-radius: 8px; background: var(--explainBg);'>\n<h4 style='color: var(--strongColor);'>Enzyme Inhibition</h4>\n<div style='display: flex; gap: 15px; flex-wrap: wrap;'>\n<div style='flex: 1; background: var(--preset-bg-color); padding: 12px; border-radius: 8px;'>\n<strong>⚔️ Competitive Inhibition</strong>\n<ul><li>Inhibitor binds to <strong>active site</strong> (resembles substrate)</li><li>Competes with substrate</li><li>Effect: Increases <strong>K<sub>m</sub></strong> (affinity decreases)</li><li>V<sub>max</sub> unchanged</li><li>Overcome by ↑ [substrate]</li>\n<li><em>Example: Malonate inhibits succinate dehydrogenase</em></li></ul>\n</div>\n<div style='flex: 1; background: var(--preset-bg-color); padding: 12px; border-radius: 8px;'>\n<strong>🔒 Non-Competitive Inhibition</strong>\n<ul><li>Inhibitor binds to <strong>allosteric site</strong> (away from active site)</li>\n<li>Causes conformational change</li>\n<li>Effect: Decreases <strong>V<sub>max</sub></strong> (catalytic efficiency)</li>\n<li>K<sub>m</sub> unchanged</li>\n<li>Cannot be overcome by ↑ [substrate]</li>\n<li><em>Example: Heavy metals (Pb²⁺, Hg²⁺) bind to -SH groups</em></li></ul>\n</div>\n</div>\n</div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Competitive inhibition: inhibitor binds active site, increases Km, Vmax unchanged, overcome by high substrate. Non-competitive: inhibitor binds allosteric site, decreases Vmax, Km unchanged, not overcome by substrate."
+    }
+  }
+]
